@@ -1,16 +1,20 @@
-### Hi there 👋
+### 这里是琴春哦👋
 
-<!--
-**vxst/vxst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ * 是一个女孩子
+ * 不是一只猫咪！真的不是
+ * 喜欢画画和编曲
+ * 不擅长画画和编曲
+ * 不知道呢......
+ * 这个世界之后一定会好的吧.......一定会的！
 
-Here are some ideas to get you started:
+有多少曾经绮丽的，明亮的梦想，被一点点地压碎；从天堂滑入黑暗，再也回不到梦开始的地方。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我们还要继续漂泊多久，才能重回故乡？我们还要继续前进多久，才能重新见到光明？我们何时才能逃离这片黑暗，消除这片恐惧？我们何时才能在没有黑暗、没有恐惧的地方重聚？
+
+但是，要相信哦，每一处绝望，都会随时间消失，就像去年的落叶一样，不见了踪影。而希望，是今晨的太阳，美丽，晴朗，而且永远存在。
+
+永远温柔，永远心怀希望，当我们的希望汇聚之时，一切都将实现。
+
+一切都会好的，要相信。
+
+我打开屋檐，看到的是蓝天。
