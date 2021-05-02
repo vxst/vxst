@@ -18,3 +18,27 @@
 一切都会好的，要相信。
 
 我打开屋檐，看到的是蓝天。
+
+#### 我管理的一些站点：
+ * [MtF指南针](https://mtf.party)
+ * [MtF Hub](https://hub.mtf.party)
+ * [MtF RIP](https://mtf.rip)
+ * [OI Wiki镜像站](https://oiwiki.vx.st)
+ * [VXST Code!](https://code.vx.st) (只限邀请，未公开)
+
+#### 我个人的一些站点：
+ * [主页](https://vx.st)
+ * [博客](https://blog.vx.st)
+
+#### 我的联系方式：
+ * 邮件（最可靠，会每日查看）：vxst@vxst.org 或者 me@vx.st 或者 shantingst@gmail.com
+ * Telegram（空闲时会立刻收到，但也可能几天不看）：[@thevxst](https://t.me/thevxst)
+ * Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
+ * QQ：539804122
+
+#### 我的身份验证信息：
+ * Keybase：https://keybase.io/vxst
+ * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)/[Keybase](https://keybase.io/vxst/pgp_keys.asc?fingerprint=dfdb9717fa8bf71660d952158350809907ec14af)）
+ * X.509证书：[Entrust: vxst@vxst.org](vxst.crt)
+ * 正常情况下我的邮件一定是经过GPG签名或者X.509签名的，如果没有这些签名，建议你回复确认一下
+ * 你也可以拿GPG密钥向我发送加密邮件，不建议使用X.509密钥发送加密邮件，我不太喜欢封闭标准
