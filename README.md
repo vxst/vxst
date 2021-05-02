@@ -42,3 +42,5 @@
  * X.509证书：[Entrust: vxst@vxst.org](vxst.crt)
  * 正常情况下我的邮件一定是经过GPG签名或者X.509签名的，如果没有这些签名，建议你回复确认一下
  * 你也可以拿GPG密钥向我发送加密邮件，不建议使用X.509密钥发送加密邮件，我不太喜欢封闭标准
+
+> Everything that has a beginning has an end.
