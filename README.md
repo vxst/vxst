@@ -36,6 +36,7 @@
  * Telegram（空闲时会立刻收到，但也可能几天不看）：[@thevxst](https://t.me/thevxst)
  * Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
  * QQ：539804122
+ * Sarahah: https://thevxst.sarahah.com
 
 #### 我的身份验证信息：
  * Keybase：https://keybase.io/vxst
