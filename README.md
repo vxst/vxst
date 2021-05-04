@@ -33,6 +33,7 @@
 
 #### 我的联系方式：
  * 邮件（最可靠，会每日查看）：vxst@vxst.org 或者 me@vx.st 或者 shantingst@gmail.com
+   * 我的邮件**一定是**经过GPG签名或者X.509签名的，并且**只会使用**下文列举的密钥，我**绝对不可能**发送未加密签名的邮件，如果你收到号称来自我的邮件，并且没有正确的签名，建议你回复确认一下
  * Telegram（空闲时会立刻收到，但也可能几天不看）：[@thevxst](https://t.me/thevxst)
  * Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
  * QQ：539804122
@@ -42,7 +43,7 @@
  * Keybase：https://keybase.io/vxst
  * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)/[Keybase](https://keybase.io/vxst/pgp_keys.asc?fingerprint=dfdb9717fa8bf71660d952158350809907ec14af)）
  * X.509证书：[Entrust: vxst@vxst.org](vxst.crt)
- * 正常情况下我的邮件一定是经过GPG签名或者X.509签名的，如果没有这些签名，建议你回复确认一下
+ * 我的邮件**一定是**经过GPG签名或者X.509签名的，并且**只会使用**上述两个密钥，我**绝对不可能**发送未加密签名的邮件，如果你收到来自我的邮件，并且没有正确的签名，建议你回复确认一下
  * 你也可以拿GPG密钥向我发送加密邮件，不建议使用X.509密钥发送加密邮件，我不太喜欢封闭标准
 
 > Everything that has a beginning has an end.
