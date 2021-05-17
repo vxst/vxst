@@ -47,4 +47,5 @@
  * 我的邮件**一定是**经过GPG签名或者X.509签名的，并且**只会使用**上述两个密钥，我**绝对不可能**发送未加密签名的邮件，如果你收到来自我的邮件，并且没有正确的签名，建议你回复确认一下
  * 你也可以拿GPG密钥向我发送加密邮件，不建议使用X.509密钥发送加密邮件，我不太喜欢封闭标准；但无论使用哪种方式加密都不会影响我查看，都会每天看的
 
+![Metrics](https://metrics.lecoq.io/vxst?template=classic&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FShanghai)
 > Everything that has a beginning has an end.
