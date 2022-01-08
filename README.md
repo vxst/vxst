@@ -1,43 +1,40 @@
-## 目前人身安全情况糟糕
+### Hello, world!
 
-我父母在57岁时，因我是跨性别，认为我不能算作人，于是在广东代孕一对龙凤胎。最近从亲戚处得到消息让我避一避，他们已确定继承人没问题了，要弄死我。我在试图办理护照异地拉户口本时发现有代孕，然后得知“继承人没问题”的意思。我已和他们没有联系三年了，已手术改证，经济完全独立。他们不让我迁出户口。我爸的说法是这是我绝经7年，52岁的母亲专程去广东生的。
+I am an experienced software developer. 
+I am a transgender woman. Before 2018, when my official gender was male, my name was Shan Ting(单挺).
+I’m actively looking for a full-time software engineer position outside China. Need visa sponsorship since I currently live in China.
 
-我父母在知道我是跨性别后立刻完全断绝来往，近5年我没有回过一次家。他们在北医六院殴打医生，并有数次试图抓我的行动，如在杭州调动两面包车特警围我租住的楼（港湾家园2号楼）。均有记录，他们从来没有对我表示过默许或者不激烈反对，从来没有妥协过。
+#### Skills
+ * Algorithm and Mathematics
+ * Programming in C++/Python/Golang/Node.js/Swift, with at least one 10k+ LOC project each
+ * Pattern recognition, machine learning and deep learning (sklearn, PyTorch, TensorFlow and other tools)
+ * High-performance computing, MPI and OpenMP, hotspots optimizing.
 
-我爸曾经在饭桌上吹嘘他让金星这个人妖滚出浙江。好像对跨性别有特别的厌恶。他是浙江省新闻出版广电局的党组副书记单烈，所以能够调动电视节目方面的人员。
+#### Interested in
+ * Music creation and production
+ * Piano
+ * Flower bouquet
+ * History of ancient Roma
+ * Learning French and Japanese
 
-他要弄死我的原因是我会对他代孕的子女造成不良影响；同时他对我老家方面的亲戚一直以来的对我不回去的说法是我死了，如果我活着会让他在老家颜面扫地。他现在突然要弄死我的原因，亲戚那边是说现在能确定代孕的婴儿健康了，我猜测也有要在失去实权之前做的原因。
+#### Under dangerous situation
 
-从亲戚渠道打听到，他知道他60岁退休之后，绝对没有能力阻止我让他57岁代孕的那对龙凤胎出意外，事实的确如此。我也没有任何方法让他相信我不会对他代孕的龙凤胎下手，实话实说我对因为我不被当成人，而代孕产生的产物，没法有好感。他认为自己必须在还有权力的时候让我死掉，否则他代孕的龙凤胎在他没有实权之后，必然出意外，事实我也的确有这个能力。他让我死的决心是很强的，在已经断绝关系五年了、无法传宗接代的我和他那对已经两岁了的龙凤胎之间，如果必须选择死一个，他绝对会要我死，并且绝对会不惜任何代价；最近他可能收到了进一年内会组织调动到无实权养老岗位（如，不是党委副书记的普通巡视员、或者政协）的消息，才决定现在必须下手。他不是一个接受现代观念的人，在他眼里，传宗接代高于一切，否则也不会57岁去广东代孕了
+I'm in danger of honor killing due to my MtF identity. 
+(My parents have surrogated a boy to replace me in this world 
+to continue the "clan," my father is 58 years old when the surrogacy happens, 
+and they want to erase me in this world due to the belief 
+I will bring bad luck to the "clan" and may influence the boy's gender identity)
+I'm actively seeking a job outside China to avoid being killed by my parents.
 
-但实际上我完全没有让那对因为我不被当成人出生的龙凤胎意外死掉的打算，我只想完全和他断绝联系，但我没有任何办法说服他，他绝对不可能相信我。在“我确实能做到”这个大前提下，他只会选择现在还有实权的时候让我死，不惜一切代价。在国内“不管家务事”的总体环境下，他只会受到同情。
+#### Site running by me
+ * OIWiki Sites(oiwiki.com/oiwiki.org/oiwiki.net/oiwiki.wiki/oiwiki.moe)
+ * [MtF Hub](https://hub.mtf.party): A Mastodon instance for male-to-female transgender
+ * [MtF Party!](https://mtf.party): A site contains basic knowledge of how to live/hide and get medical support as a male-to-female transgender
 
- * 父母姓名：单烈/陈云东
- * [职务](https://www.zj.gov.cn/art/2020/8/25/art_1229277996_42332.html)
- * 联系方式
-  * 单烈：13906501872
-  * 陈云东：13588194521 18042405105
+#### Contact
 
-
-#### FAQ
-1. 我没所谓的妄想或者精神分裂，否则我抑郁症+睡眠障碍在精神科看病这么多年早被查出来了。是我亲戚告诉我，他们近几天要弄死我，我才求救的。
-2. 我和他经济没有任何关系五年了，并且也绝对不会要他的遗产，我在声明里写的很清楚我不要他们的遗产，我能自己赚钱，不靠他们的。
-3. 他们是因为要那对龙凤胎健康成长，不受到我的影响才准备下手的；是因为他这次没有转正，有实权时间不久了，才现在下手的；我没有任何办法说服他们不下手，“姐姐是人妖”他们认为对那对龙凤胎影响很差；同时他还怀疑我会对他的龙凤胎下毒手。
-4. 代孕当然不可能是我绝经七年的妈妈搞出医学奇迹，卵子当然是买的，短信里是我爸的说法“绝经七年直接自然生育龙凤胎”。当然子宫也和我妈没关系。
-5. 他不会以公权力比如让警察追杀我；他杀死我的方式必然是制造一个意外，然后他用公权力不允许调查意外。
-
-
-#### 相关资料：
-![户口本信息](https://images.mtf.party/media_attachments/files/107/330/701/522/262/874/original/0e87548d0597c3f2.png)
-![户口本信息](https://images.mtf.party/media_attachments/files/107/330/701/641/152/671/original/3ac33916b0b09bc9.png)
-![户口本信息](https://images.mtf.party/media_attachments/files/107/330/701/737/147/860/original/dcbfdc146ca52f1d.jpeg)
-![户口本信息](https://images.mtf.party/media_attachments/files/107/330/718/188/393/454/original/b1d0d468092593dd.jpeg)
-![聊天记录](https://images.mtf.party/media_attachments/files/107/330/701/397/460/423/original/fb45666f873af4eb.png)
-![他人被威胁记录](https://images.mtf.party/media_attachments/files/107/330/718/660/916/544/original/ef2dc3563730f623.jpeg)
-
-
-#### 声明
-![声明](https://images.mtf.party/media_attachments/files/107/330/718/360/448/038/original/d84bde498020785e.jpeg)
+ * Email: me@vx.st / shantingst@gmail.com
+ * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([VXST Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)/[Keybase](https://keybase.io/vxst/pgp_keys.asc?fingerprint=dfdb9717fa8bf71660d952158350809907ec14af)）
 
 
 ### 这里是琴春哦👋
@@ -67,7 +64,7 @@
  * [MtF指南针](https://mtf.party)
  * [MtF Hub](https://hub.mtf.party)
  * [MtF RIP](https://mtf.rip)
- * [OI Wiki镜像站](https://oiwiki.vx.st)
+ * [OI Wiki镜像站](https://oiwiki.com)
  * [VXST Code!](https://code.vx.st) (只限邀请，未公开)
 
 #### 我个人的一些站点：
@@ -91,5 +88,3 @@
 
 ![Metrics](https://metrics.lecoq.io/vxst?template=classic&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FShanghai)
 > Everything that has a beginning has an end.
-
-> The end is coming.
