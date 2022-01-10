@@ -2,13 +2,6 @@
 
 I am an experienced software developer. 
 I am a transgender woman. Before 2018, when my official gender was male, my name was Shan Ting(单挺).
-I’m actively looking for a full-time software engineer position outside China. Need visa sponsorship since I currently live in China.
-
-#### Skills
- * Algorithm and Mathematics
- * Programming in C++/Python/Golang/Node.js/Swift, with at least one 10k+ LOC project each
- * Pattern recognition, machine learning and deep learning (sklearn, PyTorch, TensorFlow and other tools)
- * High-performance computing, MPI and OpenMP, hotspots optimizing.
 
 #### Interested in
  * Music creation and production
@@ -25,6 +18,12 @@ to continue the "clan," my father is 58 years old when the surrogacy happens,
 and they want to erase me in this world due to the belief 
 I will bring bad luck to the "clan" and may influence the boy's gender identity)
 I'm actively seeking a job outside China to avoid being killed by my parents.
+
+#### Skills
+ * Algorithm and Mathematics
+ * Programming in C++/Python/Golang/Node.js/Swift, with at least one 10k+ LOC project each
+ * Pattern recognition, machine learning and deep learning (sklearn, PyTorch, TensorFlow and other tools)
+ * High-performance computing, MPI and OpenMP, hotspots optimizing.
 
 #### Site running by me
  * OIWiki Sites(oiwiki.com/oiwiki.org/oiwiki.net/oiwiki.wiki/oiwiki.moe)
