@@ -21,19 +21,21 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
 
 #### Skills
  * Algorithm and Mathematics
- * Programming in C++/Python/Golang/Node.js/Swift, with at least one 10k+ LOC project each
- * Pattern recognition, machine learning and deep learning (sklearn, PyTorch, TensorFlow and other tools)
- * High-performance computing, MPI and OpenMP, hotspots optimizing.
+ * Programming in C++/Python/Golang/Node.js/Swift/Java/JavaScript
+ * Backend development: Java/Spring, Python/Flask/Django, Golang, Node.js
+ * Pattern recognition, machine learning and deep learning
+ * High-performance computing, MPI and OpenMP, hotspots optimization
 
 #### Site running by me
- * OIWiki Sites(oiwiki.com/oiwiki.org/oiwiki.net/oiwiki.wiki/oiwiki.moe)
+ * OIWiki Sites([oiwiki.com](https://oiwiki.com)/[oiwiki.org](https://oiwiki.org)/[oiwiki.net](https://oiwiki.net))
  * [MtF Hub](https://hub.mtf.party): A Mastodon instance for male-to-female transgender
  * [MtF Party!](https://mtf.party): A site contains basic knowledge of how to live/hide and get medical support as a male-to-female transgender
+ * [Blog](https://blog.vx.st)
 
 #### Contact
 
  * Email: me@vx.st / shantingst@gmail.com
- * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([VXST Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)/[Keybase](https://keybase.io/vxst/pgp_keys.asc?fingerprint=dfdb9717fa8bf71660d952158350809907ec14af)）
+ * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([VXST Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)
 
 
 ### 这里是琴春哦👋
@@ -76,7 +78,6 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
  * Telegram（空闲时会立刻收到，但也可能几天不看）：[@thevxst](https://t.me/thevxst)
  * Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
  * QQ：539804122
- * Sarahah: https://thevxst.sarahah.com
 
 #### 我的身份验证信息：
  * Keybase：https://keybase.io/vxst
@@ -86,4 +87,5 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
  * 你也可以拿GPG密钥向我发送加密邮件，不建议使用X.509密钥发送加密邮件，我不太喜欢封闭标准；但无论使用哪种方式加密都不会影响我查看，都会每天看的
 
 ![Metrics](https://metrics.lecoq.io/vxst?template=classic&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FShanghai)
+
 > Everything that has a beginning has an end.
