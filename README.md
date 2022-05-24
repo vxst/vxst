@@ -51,15 +51,10 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
 我打开屋檐，看到的是蓝天。
 
 #### 我管理的一些站点：
- * [MtF指南针](https://mtf.party)
- * [MtF Hub](https://hub.mtf.party)
- * [MtF RIP](https://mtf.rip)
- * [OI Wiki镜像站](https://oiwiki.com)
- * [VXST Code!](https://code.vx.st) (只限邀请，未公开)
+ * [MtF指南针](https://mtf.party) / [MtF Hub](https://hub.mtf.party) / [MtF RIP](https://mtf.rip) / [OI Wiki镜像站](https://oiwiki.com)
 
 #### 我个人的一些站点：
- * [主页](https://vx.st)
- * [博客](https://blog.vx.st)
+ * [主页](https://vx.st) / [博客](https://blog.vx.st)
 
 #### 我的联系方式：
  * 邮件（最可靠，会每日查看）：vxst@vxst.org / me@vx.st / shantingst@gmail.com / me@sec.vx.st
@@ -73,5 +68,4 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
  * 我的邮件**一定是**经过GPG签名的，并且**只会使用**上述两个密钥，我**绝对不可能**发送未加密签名的邮件，如果你收到来自我的邮件，并且没有正确的签名，建议你回复确认一下，你也可以拿GPG密钥向我发送加密邮件
 
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
-
 > Everything that has a beginning has an end.
