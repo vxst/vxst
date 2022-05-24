@@ -43,12 +43,9 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
  * 这个世界之后一定会好的吧.......一定会的！
 
 要相信哦，每一处绝望，都会随时间消失，就像去年的落叶一样，不见了踪影。而希望，是今晨的太阳，美丽，晴朗，而且永远存在。
-
 永远温柔，永远心怀希望，当我们的希望汇聚之时，一切都将实现。
-
 一切都会好的，要相信。
-
-我打开屋檐，看到的是蓝天。
+我打开屋檐，看到的是蓝天。🏳️‍⚧️
 
 #### 我管理的一些站点：
  * [MtF指南针](https://mtf.party) / [MtF Hub](https://hub.mtf.party) / [MtF RIP](https://mtf.rip) / [OI Wiki镜像站](https://oiwiki.com)
