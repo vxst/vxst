@@ -36,9 +36,7 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
 永远坚强，永远善良，永远卓越
 
  * I am no man/我不是男人/请使用“她”作为我的代词/我很在意
- * 是一个女孩子
- * 喜欢画画和编曲
- * 不擅长画画和编曲
+ * 喜欢画画和编曲，但不擅长画画和编曲
  * 被赶出家门/流浪中/没有家人了
  * 这个世界之后一定会好的吧.......一定会的！
 
