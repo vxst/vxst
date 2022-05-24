@@ -6,7 +6,7 @@ I am a transgender woman. Before 2018, when my official gender was male, my name
 #### Under dangerous situation
 
 I'm in danger of honor killing due to my MtF identity. 
-(My parents have surrogated a boy to replace me in this world 
+(My parents have surrogated a longfengtai(a boy and a girl as twins) to replace me in this world 
 to continue the "clan," my father is 58 years old when the surrogacy happens, 
 and they want to erase me in this world due to the belief 
 I will bring bad luck to the "clan" and may influence the boy's gender identity)
@@ -23,11 +23,10 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
  * OIWiki Sites([oiwiki.com](https://oiwiki.com)/[oiwiki.org](https://oiwiki.org)/[oiwiki.net](https://oiwiki.net)), continuous deployment to my personal kubernetes cluster daily
  * [MtF Hub](https://hub.mtf.party): A Mastodon instance for male-to-female transgender
  * [MtF Party!](https://mtf.party): A site contains guide on how to live/hide and get medical support as a MtF transgender
- * [Blog](https://blog.vx.st)
 
 #### Contact
 
- * Email: me@vx.st / shantingst@gmail.com / me@sec.vx.st
+ * Email: me@vx.st / shantingst@gmail.com
  * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([VXST Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)) / GPG for me@sec.vx.st: C38C60041E40EA9017F230DFF4B9EA8FFC3A8C7A [OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/C38C60041E40EA9017F230DFF4B9EA8FFC3A8C7A)
 
 
@@ -52,15 +51,11 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
  * [主页](https://vx.st) / [博客](https://blog.vx.st)
 
 #### 我的联系方式：
- * 邮件（最可靠，会每日查看）：vxst@vxst.org / me@vx.st / shantingst@gmail.com / me@sec.vx.st
+ * 邮件（最可靠，会每日查看）：me@vx.st / shantingst@gmail.com
    * 我的邮件**一定是**经过GPG签名或者X.509签名的，并且**只会使用**下文列举的密钥，我**绝对不可能**发送未加密签名的邮件，如果你收到号称来自我的邮件，并且没有正确的签名，建议你回复确认一下
-   * 其中 me@sec.vx.st 主要接收经过GPG加密的信息，用于高安全性的通信，请不要对此邮箱发送未加密的信息。
  * Telegram（空闲时会立刻收到，但也可能几天不看）：[@thevxst](https://t.me/thevxst)
  * Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
-
-#### 我的身份验证信息：
- * GPG: the major key DFDB9717FA8BF71660D952158350809907EC14AF ([琴春Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)/[Keybase](https://keybase.io/vxst/pgp_keys.asc?fingerprint=dfdb9717fa8bf71660d952158350809907ec14af)) / for me@sec.vx.st: C38C60041E40EA9017F230DFF4B9EA8FFC3A8C7A [OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/C38C60041E40EA9017F230DFF4B9EA8FFC3A8C7A)
- * 我的邮件**一定是**经过GPG签名的，并且**只会使用**上述两个密钥，我**绝对不可能**发送未加密签名的邮件，如果你收到来自我的邮件，并且没有正确的签名，建议你回复确认一下，你也可以拿GPG密钥向我发送加密邮件
+ * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([琴春Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)/[Keybase](https://keybase.io/vxst/pgp_keys.asc?fingerprint=dfdb9717fa8bf71660d952158350809907ec14af))
 
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 > Everything that has a beginning has an end.
