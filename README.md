@@ -2,10 +2,11 @@
 
 > Stay fortitude, Do good, Be excellence
 
-I am an experienced software developer. 
+I am an experienced software developer. My [workspace](https://github.com/vxst/docker-workspace) is debian with vim.
+
 I am a transgender woman🏳️‍⚧️. Before 2018, when my official gender was male, my name was Shan Ting(单挺).
 
-#### Under dangerous situation 🏳️‍⚧️
+#### Under dangerous situation ☠️
 
 I'm in danger of honor killing due to my MtF identity.🏳️‍⚧️ 
 (My parents have surrogated a longfengtai(a boy and a girl as twins) to replace me in this world 
@@ -14,18 +15,18 @@ and they want to erase me due to the belief
 I will bring bad luck to the "clan" and may influence the boy's gender identity)
 
 #### Skills 🔧
- * Advanced algorithm and mathematics
- * CI/CD pipelines using CircleCI, GitHub Action and Jenkins; DevOps with production HA kubernetes cluster manage experience
+ * Advanced algorithm and mathematics ([Rk.27 in National Olympiad in Informatics 2012](https://bytew.net/OIer/?query=UID4470); ProjEuler L3(only for fun, user is vxst); Some research on group theory)
+ * CI/CD pipelines using CircleCI, GitHub Action and Jenkins; DevOps with production HA kubernetes cluster manage experience on EKS
  * Backend development: Java/Spring, Python/Flask/Django, Golang, Node.js
  * Pattern recognition, machine learning and deep learning, using sklearn and TF
- * High-performance computing, MPI and OpenMP, hotspots optimization, was Supercomputing Cluster Manager in ZJU.
+ * High-performance computing, MPI and OpenMP, hotspots optimization, was the Supercomputing Cluster Manager in ZJU.
 
 #### Sites running by me
- * OIWiki Sites([oiwiki.com](https://oiwiki.com)/[oiwiki.org](https://oiwiki.org)/[oiwiki.net](https://oiwiki.net)), continuous deployment to my personal kubernetes cluster daily
+ * OIWiki Sites([oiwiki.com](https://oiwiki.com)/[oiwiki.org](https://oiwiki.org)/[oiwiki.net](https://oiwiki.net)), continuous deployment to my personal kubernetes cluster daily, [repo](https://github.com/vxst/site-dockers)
  * [MtF Hub](https://hub.mtf.party): A Mastodon instance for male-to-female transgender
- * [MtF Party!](https://mtf.party): A site contains guide on how to live/hide and get medical support as a MtF transgender
+ * [MtF Party!](https://mtf.party): A site contains guides on how to live/hide and get medical support as a MtF transgender
 
-#### Contact
+#### Contact 📧
 
  * Email: me@vx.st / shantingst@gmail.com
  * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([VXST Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF))
@@ -48,7 +49,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 #### 我管理的一些站点：
  * [MtF指南针](https://mtf.party) / [MtF Hub](https://hub.mtf.party) / [MtF RIP](https://mtf.rip) / [OI Wiki镜像站](https://oiwiki.com) / [主页](https://vx.st) / [博客](https://blog.vx.st)
 
-#### 我的联系方式：
+#### 我的联系方式：📧
  * Email：me@vx.st / shantingst@gmail.com, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
  * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([琴春Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF))
 
