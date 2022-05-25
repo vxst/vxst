@@ -27,7 +27,7 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
 #### Contact
 
  * Email: me@vx.st / shantingst@gmail.com
- * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([VXST Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)) / GPG for me@sec.vx.st: C38C60041E40EA9017F230DFF4B9EA8FFC3A8C7A [OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/C38C60041E40EA9017F230DFF4B9EA8FFC3A8C7A)
+ * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([VXST Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF))
 
 
 ### 这里是琴春哦👋
@@ -49,7 +49,7 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
 
 #### 我的联系方式：
  * Email：me@vx.st / shantingst@gmail.com, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
- * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([琴春Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF)
+ * GPG: DFDB9717FA8BF71660D952158350809907EC14AF ([琴春Publish](https://vx.st/07EC14AF.asc)/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DFDB9717FA8BF71660D952158350809907EC14AF))
 
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 > Everything that has a beginning has an end.
