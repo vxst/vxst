@@ -1,25 +1,26 @@
-### Hello, world!
+### Hi, I'm Jyn Spring (Chunqing Shan) 👋
+
+> Stay fortitude, Do good, Be excellence
 
 I am an experienced software developer. 
-I am a transgender woman. Before 2018, when my official gender was male, my name was Shan Ting(单挺).
+I am a transgender woman🏳️‍⚧️. Before 2018, when my official gender was male, my name was Shan Ting(单挺).
 
-#### Under dangerous situation
+#### Under dangerous situation 🏳️‍⚧️
 
-I'm in danger of honor killing due to my MtF identity. 
+I'm in danger of honor killing due to my MtF identity.🏳️‍⚧️ 
 (My parents have surrogated a longfengtai(a boy and a girl as twins) to replace me in this world 
 to continue the "clan," my father is 58 years old when the surrogacy happens, 
-and they want to erase me in this world due to the belief 
+and they want to erase me due to the belief 
 I will bring bad luck to the "clan" and may influence the boy's gender identity)
-I'm actively seeking a job outside China to avoid being killed by my parents.
 
-#### Skills
+#### Skills 🔧
  * Advanced algorithm and mathematics
  * CI/CD pipelines using CircleCI, GitHub Action and Jenkins; DevOps with production HA kubernetes cluster manage experience
  * Backend development: Java/Spring, Python/Flask/Django, Golang, Node.js
  * Pattern recognition, machine learning and deep learning, using sklearn and TF
  * High-performance computing, MPI and OpenMP, hotspots optimization, was Supercomputing Cluster Manager in ZJU.
 
-#### Site running by me
+#### Sites running by me
  * OIWiki Sites([oiwiki.com](https://oiwiki.com)/[oiwiki.org](https://oiwiki.org)/[oiwiki.net](https://oiwiki.net)), continuous deployment to my personal kubernetes cluster daily
  * [MtF Hub](https://hub.mtf.party): A Mastodon instance for male-to-female transgender
  * [MtF Party!](https://mtf.party): A site contains guide on how to live/hide and get medical support as a MtF transgender
@@ -32,7 +33,7 @@ I'm actively seeking a job outside China to avoid being killed by my parents.
 
 ### 这里是琴春哦👋
 
-永远坚强，永远善良，永远卓越
+> 永远坚强，永远善良，永远卓越
 
  * I am no man/我不是男人/请使用“她”作为我的代词/我很在意
  * 喜欢画画和编曲，但不擅长画画和编曲
