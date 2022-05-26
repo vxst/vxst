@@ -25,6 +25,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
  * OIWiki Sites([oiwiki.com](https://oiwiki.com)/[oiwiki.org](https://oiwiki.org)/[oiwiki.net](https://oiwiki.net)), continuous deployment to my personal kubernetes cluster daily, [repo](https://github.com/vxst/site-dockers)
  * [MtF Hub](https://hub.mtf.party): A Mastodon instance for male-to-female transgender
  * [MtF Party!](https://mtf.party): A site contains guides on how to live/hide and get medical support as a MtF transgender
+ * [Jinja Mail](https://mail.jinja.ai): My personal mail server
 
 #### Contact 📧
 
