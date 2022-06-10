@@ -29,8 +29,8 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 
 #### Contact 📧
 
- * Email: me@vx.st / shantingst@gmail.com
- * GPG: C65AF00E/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/F8F475FA500A7C28DD1611CC1E83589CC65AF00E)/[Hockeypuck](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xf8f475fa500a7c28dd1611cc1e83589cc65af00e)
+ * Email: me@vx.st
+ * GPG: C65AF00E/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/F8F475FA500A7C28DD1611CC1E83589CC65AF00E)/[Hockeypuck](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xf8f475fa500a7c28dd1611cc1e83589cc65af00e); The key 07EC14AF is deprecated.
 
 
 ### 这里是琴春哦👋
@@ -51,8 +51,8 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
  * [MtF指南针](https://mtf.party) / [MtF Hub](https://hub.mtf.party) / [MtF RIP](https://mtf.rip) / [OI Wiki镜像站](https://oiwiki.com) / [主页](https://vx.st) / [博客](https://blog.vx.st)
 
 #### 我的联系方式：📧
- * Email：me@vx.st / shantingst@gmail.com, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
- * GPG: C65AF00E/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/F8F475FA500A7C28DD1611CC1E83589CC65AF00E)/[Hockeypuck](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xf8f475fa500a7c28dd1611cc1e83589cc65af00e)
+ * Email：me@vx.st, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
+ * GPG: C65AF00E/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/F8F475FA500A7C28DD1611CC1E83589CC65AF00E)/[Hockeypuck](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xf8f475fa500a7c28dd1611cc1e83589cc65af00e); The key 07EC14AF is deprecated.
 
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 > Everything that has a beginning has an end.
