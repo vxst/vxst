@@ -25,12 +25,11 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
  * OIWiki Sites([oiwiki.com](https://oiwiki.com)/[oiwiki.org](https://oiwiki.org)/[oiwiki.net](https://oiwiki.net)), continuous deployment to my personal kubernetes cluster daily, [repo](https://github.com/vxst/site-dockers)
  * [MtF Hub](https://hub.mtf.party): A Mastodon instance for male-to-female transgender
  * [MtF Party!](https://mtf.party): A site contains guides on how to live/hide and get medical support as a MtF transgender
- * [Jinja Mail](https://mail.jinja.ai): My personal mail server
 
 #### Contact 📧
 
  * Email: me@vx.st
- * GPG: F3C91CE5/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/68C21BF9C923B3F1AF0A1D8AFE1A2E47F3C91CE5); The key 07EC14AF is deprecated.
+ * GPG: F1D26219
 
 
 ### 这里是琴春哦👋
@@ -52,7 +51,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 
 #### 我的联系方式：📧
  * Email：me@vx.st, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
- * GPG: F3C91CE5/[OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/68C21BF9C923B3F1AF0A1D8AFE1A2E47F3C91CE5); The key 07EC14AF is deprecated.
+ * GPG: F1D26219
 
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 > Everything that has a beginning has an end.
