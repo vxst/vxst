@@ -29,7 +29,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 #### Contact 📧
 
  * Email: me@vx.st
- * GPG: F1D26219
+ * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
 
 
 ### 这里是琴春哦👋
@@ -51,7 +51,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 
 #### 我的联系方式：📧
  * Email：me@vx.st, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
- * GPG: F1D26219
+ * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
 
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 > Everything that has a beginning has an end.
