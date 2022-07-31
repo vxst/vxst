@@ -32,11 +32,12 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
  * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
  * S/MIME: [3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
 
-> The only sure way to contact me is by email。
+> The only sure way to contact me is by email
 >
 > If you want high E2E security, use GPG, but I only check GPG encrypted mail daily
 >
-> If you want to reach me quickly and need E2E security, please use vxst@riseup.net and [S/MIME](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
+> If you want to reach me quickly and need E2E security, please use vxst@riseup.net and [S/MIME](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt). 
+This is also the suggested way to reach me unless you believe you are being tracked by CIA/FBI/KGB.
 
 
 
@@ -67,6 +68,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 > 我会保证至少每6小时阅读一次邮件，包括使用S/MIME加密的邮件；对于GPG加密的邮件，由于私钥全程在硬件内生成，无法导出，我会在36小时内至少看一次邮件。
 >
 > S/MIME加密的邮件地址是vxst@riseup.net，使用[3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)作为公钥，安全性低于GPG，但仍然可以看作足够强的端到端保密。
+这也是建议的联系我的方式，除非你正在被国家机构级别的情报机构强监控。无论哪个层级的公安都不存在破解这个方式的能力。
  
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 > Everything that has a beginning has an end.
