@@ -28,7 +28,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 
 #### Contact 📧
 
- * Email: me@vx.st/vxst@riseup.net
+ * Email: me@vx.st / vxst@riseup.net
  * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
  * S/MIME: [3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
 
@@ -58,7 +58,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
  * [MtF指南针](https://mtf.party) / [MtF Hub](https://hub.mtf.party) / [MtF RIP](https://mtf.rip) / [OI Wiki镜像站](https://oiwiki.com) / [主页](https://vx.st) / [博客](https://blog.vx.st)
 
 #### 我的联系方式：📧
- * Email：me@vx.st/vxst@riseup.net, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
+ * Email：me@vx.st / vxst@riseup.net, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
  * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
  * S/MIME: [3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
  
