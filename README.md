@@ -28,8 +28,16 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 
 #### Contact 📧
 
- * Email: me@vx.st
+ * Email: me@vx.st/vxst@riseup.net
  * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
+ * S/MIME: [3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
+
+> The only sure way to contact me is by email。
+>
+> If you want high E2E security, use GPG, but I only check GPG encrypted mail daily
+>
+> If you want to reach me quickly and need E2E security, please use vxst@riseup.net and [S/MIME](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
+
 
 
 ### 这里是琴春哦👋
@@ -50,8 +58,15 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
  * [MtF指南针](https://mtf.party) / [MtF Hub](https://hub.mtf.party) / [MtF RIP](https://mtf.rip) / [OI Wiki镜像站](https://oiwiki.com) / [主页](https://vx.st) / [博客](https://blog.vx.st)
 
 #### 我的联系方式：📧
- * Email：me@vx.st, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
+ * Email：me@vx.st/vxst@riseup.net, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
  * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
-
+ * S/MIME: [3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
+ 
+> 联系我最可靠的方式是邮件，没有之一。
+>
+> 我会保证至少每6小时阅读一次邮件，包括使用S/MIME加密的邮件；对于GPG加密的邮件，由于私钥全程在硬件内生成，无法导出，我会在36小时内至少看一次邮件。
+>
+> S/MIME加密的邮件地址是vxst@riseup.net，使用[3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)作为公钥，安全性低于GPG，但仍然可以看作足够强的端到端保密。
+ 
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 > Everything that has a beginning has an end.
