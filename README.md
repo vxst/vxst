@@ -29,7 +29,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 #### Contact 📧
 
  * Email: me@vx.st / vxst@riseup.net
- * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
+ * GPG: [48667DEF](https://keys.openpgp.org/vks/v1/by-fingerprint/F2A1B804390558880DFEBBA0F085D7C448667DEF)
  * S/MIME: [3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
 
 > The only sure way to contact me is by email
@@ -60,15 +60,15 @@ This is also the suggested way to reach me unless you believe you are being trac
 
 #### 我的联系方式：📧
  * Email：me@vx.st / vxst@riseup.net, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
- * GPG: [A7DA67F0](https://keys.openpgp.org/vks/v1/by-fingerprint/2E0B8DF2FF530B40272918B9542D9AB3A7DA67F0)
+ * GPG: [48667DEF](https://keys.openpgp.org/vks/v1/by-fingerprint/F2A1B804390558880DFEBBA0F085D7C448667DEF)
  * S/MIME: [3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
  
 > 联系我最可靠的方式是邮件，没有之一。
 >
-> 我会保证至少每6小时阅读一次邮件，包括使用S/MIME加密的邮件；对于GPG加密的邮件，由于私钥全程在硬件内生成，无法导出，我会在36小时内至少看一次邮件。
+> 我会保证至少每6小时阅读一次邮件，包括使用S/MIME加密的邮件；对于GPG加密的邮件，由于私钥全程在硬件内生成，没有硬件副本以外的副本，我会在36小时内至少看一次邮件。
 >
 > S/MIME加密的邮件地址是vxst@riseup.net，使用[3420a3be](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)作为公钥，安全性低于GPG，但仍然可以看作足够强的端到端保密。
-这也是建议的联系我的方式，除非你正在被国家机构级别的情报机构强监控。无论哪个层级的公安都不存在破解这个方式的能力。
+> 对于GPG，可以视为经过[48667DEF](https://keys.openpgp.org/vks/v1/by-fingerprint/F2A1B804390558880DFEBBA0F085D7C448667DEF)签署的一切内容都是我自己发布的内容。不存在任何方法伪造或破解我的GPG签名。
  
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 > Everything that has a beginning has an end.
