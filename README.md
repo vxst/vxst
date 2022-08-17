@@ -30,6 +30,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 
  * Email: me@vx.st / vxst@riseup.net
  * GPG: [48667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
+  * Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
  * S/MIME: [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
 
 > The only sure way to contact me is by email. 
@@ -63,6 +64,7 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 #### 我的联系方式：📧
  * Email：me@vx.st / vxst@riseup.net, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
  * GPG: [48667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
+  * Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
  * S/MIME: [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
  
 > 联系我最可靠的方式是邮件，没有之一。
