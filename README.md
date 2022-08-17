@@ -44,6 +44,11 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 > I will read all the emails send to me@vx.st and vxst@riseup.net at least once a week. If you (using gmail, outlook and zju mail) can't contact me with GPG encrypted email that send to both addresses in 28 days, or the reply email is not signed by the 48667DEF key, you can assume I have been dead.
 
 
+#### Situation Check
+ * You can send me a GPG signed and encrypted email. I will reply within 7 days to confirm my status.
+ * You can watch the [Canary](canary.md), which will stop update when I'm dead.
+
+
 ### 这里是琴春哦👋
 
 > 永远坚强，永远善良，永远卓越
@@ -78,5 +83,10 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 > 对于GPG，可以视为经过48667DEF签署的一切内容都是我本人的内容。除非已经公开使用销毁证书销毁了这个key，我会对经过48667DEF签署的所有内容负责。
  
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
+
+#### 对生存状态的确认
+
+ * 您可以给我发送经过GPG签名和加密的电子邮件，我一般会在7天内回复以确认我的状态。
+ * 您可以查看[Canary](canary.md)，当我死后它会停止更新。
 
 > Everything that has a beginning has an end.
