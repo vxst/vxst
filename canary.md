@@ -3,12 +3,14 @@
 A mechanism to test for unsafe conditions, originating from the use of canaries in coal mines to detect poisonous gases or cave-ins. If the canary died, it was time to get out of the mine. More recently, the term has been used by some online service providers to refer to an affirmative statement, updated regularly, that the provider has not been subjected to certain legal processes. If the statement is not updated in a timely fashion, users may infer that the canary statement may no longer be true.
 
 
-# Chunqing Shan's Canary:
+# Chunqing Shan's Canary of Alive
 
+ * The canary should be signed with the GPG key with following primary key fingerprint
+ ```F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF```
  * This canary will be re-signed every month between 1st to 15th, start from September, 2022.
- * The key used to sign the canary must always be 48667DEF.
- * You can be extremely certain that I have dead if there is no signature after 15th.
- * The canary will only stopped by a statement that is signed using the 48667DEF.
+ * You can be pretty certain that I have dead if there is no signature after 15th.
+ * The canary will only be stopped by a statement that is signed using the GPG key metioned above.
+
 
 # The Canary
 
@@ -16,25 +18,52 @@ A mechanism to test for unsafe conditions, originating from the use of canaries 
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-I confirm that I am still alive. I don't think I have an imminent threat that will happen in a few days. I don't think I'm in a safe state and there's no guarantee of my life due to the clan and local government's murder plan against me.
+I confirm that I, Chunqing Shan, or vxst, am alive.
 
-But I am still alive. For now.
+My "ZongZu"(clan, family) from Ningbo has made an open death threat to me.
+There are about 170 men worldwide in my "ZongZu", and they agreed unanimously
+to kill me. The reason for this death threat is because I am a transgender
+woman, and it's considered to be unbearable to the clan, especially since my
+father is the current "ZuZhang" (leader of a tradition) of the clan, and I was
+their designated "ZuZhang" before my transgender identity is known to them.
 
-This canary will be re-signed every month between 1st and 15th after August 2022. If one of the canary fails to be signed and published, you can safely assume I am dead.
+They believe I seriously broke the "QiYun"(a kind of luck) of the clan and
+the only solution is my death. They agreed that I should be killed even at the
+cost of the lives of clan members.
+
+I currently live in hiding, and I believe I'm safe in the short term since
+there is a limitation on international travel placed by the Chinese government
+due to covid-19, and I believe there is no active clan member knows my
+address.
+
+I will continue to live in hiding until I can reach a safe country that can
+protect me from the murder (not only the justice after the murder, they are
+determined that they don't care about that).
+
+This canary will be re-signed every month between the 1st and 5th after August
+2022 with the GPG key with the following primary key fingerprint:
+
+F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
+
+This key can be fetched from:
+https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc
+
+This canary will only end due to my death, or I have got to a safe place. I
+will sign a statement using the same key if the latter happens.
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE8qG4BDkFWIgN/rug8IXXxEhmfe8FAmL9G20ACgkQ8IXXxEhm
-fe+yZxAAtXES9qEcMYhiSeu9WlEJIOjEDT4mFz54J3KHtUyrdDNSOL/3OHS8bv/a
-wQoeq7U/1d4vpmiJvraJBJKzU2+Nq2Hu78s1y3LxkTTiyr8Xx0sgxDq50gkRETMZ
-xgix7ukQeamkpJxgpvRtnN1fZBX16BQDlAv3BmTOgx/eVWwkTNDLKkG+wqbL9joc
-KSfSt+rR4EIIPhfBVjapJY2BHx3IQBKLwspMeeW+HtYvwi9eBxG4R+0qElEZ38ai
-qaiprFika/keDjGKPPO5wD2AqyDYbNzsnRuk8udYOVWtPGQe2DSYoHxf0yM9OW6Y
-3GO2/QXEaE6hJ0cgGofDPsypX9G91KiZoss5Um+TXywLlirh2qdLDifMfNKMPlTo
-ME/XsbkxwAesr0J7bGHu0D97cK6Yh/cIthjmfDkh8ZIvUVsaC6pNWOSH5IC16sxX
-we9QblcHwRRTBpMd3LoUgToNM3vT5OrHr8oqEP+obVLbq2E1y9WgfS/q2FVayrxq
-okNU12v/13YPubPBnWSyv2JOYFBm9MHGrfd+s/325exQK6VRKrxneHxruCdaQesh
-JjVVuZtG6IdlrEn39qK5Rk6Mu5OEzx54+EEX0n0I5LM5qYgBpWQhgfoRVMEPIOzL
-PTJv+3qESrjC8diwefwBTw1HwYxM5b7bufbXYkgS+utkMAVQh8w=
-=lbit
+iQI5BAEBCgAjFiEEUjlzJpI1xzxRLJ+LEiIrBOQsffEFAmMAtNkFgwAXuwAACgkQ
+EiIrBOQsffFzKA//ZzuWcsyIh2OERhSlj4z6Lf4DrgzBNPaf4auvMEfBuFtetMK4
+Isy1RIjciqlMCvvHaQsKy1oS+6j8k0zKfSsalSKG1yPq0+P4dJxMvLLGEMdPlLFV
+v98XBxlzrPKUmqvuSMKn0GIYqGFkcXfP11kX99JCg3z5tbhfvSyYC5uuRx6pb+ki
+TveWHKrmRL8elqZS9nfSmLmRQM1N4bA+l4W5K+V4U3LJ+Wb+oUnSBl9HkYTKLgR8
+cCFTKPZnAasqkLCLBeV+8Jv+Q6d7KL5VsJRsHNfvwgL5s3r0do0kYaof3JOOfprp
+QReijbROxSNo1isRByJVO/sibcALYrlVqaqx29u+uC4bLM7JaePAU+z+4Xwin7pU
+P/kjwU64lVLvlKIEgVYkq4AuArFXtXAXfHgeaJQXvbBnMpdKv15nRJQ1sr5yfumf
+bELVbCKOrtv5engKGSyjV5BeFhF7aXnJTHYt/Q4VmTK0ZkaBa6hlrZ1Y2ZDaIe9H
+hXhWfetyIos3TcRCKNGIiY767gAAhbcjoYtfieN/otEXqiDyU2RRZpVBAHfcgROC
+uL4u7oRtD1qNXSYTKjxebDP/eR0tE27w3IHC4PUf6TOdoIobEPcrZbTmfErcV1pC
+0v6srnTfaKhXsl+vSzqKRa9ZWmhqDU0zC1ABLuLTJgyATVgwEwjwzgn3SB8=
+=acJr
 -----END PGP SIGNATURE-----
 ```
