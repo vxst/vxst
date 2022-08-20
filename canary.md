@@ -52,18 +52,9 @@ This canary will only end due to my death, or I have got to a safe place. I
 will sign a statement using the same key if the latter happens.
 -----BEGIN PGP SIGNATURE-----
 
-iQI5BAEBCgAjFiEEUjlzJpI1xzxRLJ+LEiIrBOQsffEFAmMAtNkFgwAXuwAACgkQ
-EiIrBOQsffFzKA//ZzuWcsyIh2OERhSlj4z6Lf4DrgzBNPaf4auvMEfBuFtetMK4
-Isy1RIjciqlMCvvHaQsKy1oS+6j8k0zKfSsalSKG1yPq0+P4dJxMvLLGEMdPlLFV
-v98XBxlzrPKUmqvuSMKn0GIYqGFkcXfP11kX99JCg3z5tbhfvSyYC5uuRx6pb+ki
-TveWHKrmRL8elqZS9nfSmLmRQM1N4bA+l4W5K+V4U3LJ+Wb+oUnSBl9HkYTKLgR8
-cCFTKPZnAasqkLCLBeV+8Jv+Q6d7KL5VsJRsHNfvwgL5s3r0do0kYaof3JOOfprp
-QReijbROxSNo1isRByJVO/sibcALYrlVqaqx29u+uC4bLM7JaePAU+z+4Xwin7pU
-P/kjwU64lVLvlKIEgVYkq4AuArFXtXAXfHgeaJQXvbBnMpdKv15nRJQ1sr5yfumf
-bELVbCKOrtv5engKGSyjV5BeFhF7aXnJTHYt/Q4VmTK0ZkaBa6hlrZ1Y2ZDaIe9H
-hXhWfetyIos3TcRCKNGIiY767gAAhbcjoYtfieN/otEXqiDyU2RRZpVBAHfcgROC
-uL4u7oRtD1qNXSYTKjxebDP/eR0tE27w3IHC4PUf6TOdoIobEPcrZbTmfErcV1pC
-0v6srnTfaKhXsl+vSzqKRa9ZWmhqDU0zC1ABLuLTJgyATVgwEwjwzgn3SB8=
-=acJr
+iHsEARYKACMWIQT3Zo+2+qnzBvZxYjGe0WFAdbnvOwUCYwDSWwWDABZpgAAKCRCe
+0WFAdbnvOxyBAQDFwTxS1U9beupZqmyu/uTQDjQ2kd3A/1iGs5uIynTODwEA1ANx
+ID7SHIa0FOxld5KETZtDMqplLCRFgLIXJZQvnAg=
+=Chm/
 -----END PGP SIGNATURE-----
 ```
