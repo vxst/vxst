@@ -16,7 +16,7 @@ A mechanism to test for unsafe conditions, originating from the use of canaries 
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA384
 
 I confirm that I, Chunqing Shan, or vxst, am alive.
 
@@ -52,9 +52,10 @@ This canary will only end due to my death, or I have got to a safe place. I
 will sign a statement using the same key if the latter happens.
 -----BEGIN PGP SIGNATURE-----
 
-iHsEARYKACMWIQT3Zo+2+qnzBvZxYjGe0WFAdbnvOwUCYwDSWwWDABZpgAAKCRCe
-0WFAdbnvOxyBAQDFwTxS1U9beupZqmyu/uTQDjQ2kd3A/1iGs5uIynTODwEA1ANx
-ID7SHIa0FOxld5KETZtDMqplLCRFgLIXJZQvnAg=
-=Chm/
+iJsEARMJACMWIQR9JGsrIHSCVg0oIFYy2Kdb8s5m/QUCYwEYcgWDABZpgAAKCRAy
+2Kdb8s5m/VwgAX4uPg1rQfqcgK6IcI59m2lUx4LsFNV1ss9uZ4woymvHk26ehAOp
+tb9Q5Qe2ulA0aj0BgLEGSneRDM8d0maf1r5OIb/I6ZSVI+Lz2ESceT/qePjvMLXC
+8dseCbqhZRQybxm46A==
+=Ytnf
 -----END PGP SIGNATURE-----
 ```
