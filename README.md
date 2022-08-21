@@ -29,8 +29,9 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 #### Contact 📧
 
  * Email: me@vx.st / vxst@riseup.net
- * GPG: [48667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
+ * GPG: [F085D7C448667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
   * Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
+  * The F085D7C448667DEF mentioned in below always means the GPG key with the above fingerprint
  * S/MIME: [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
 
 > The only sure way to contact me is by email. 
@@ -39,9 +40,9 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 >
 > If you want to use S/MIME, you can use the key specified above. The safety of S/MIME is worse than GPG, but normally it's more secure than plaintext.
 >
-> You can assume that even in extreme environment, anything signed using 48667DEF is signed by me personally. The private key only stored in tamper-proof, self-destructible hardwares. It's pretty impossible that anyone can get the private key. I will honor anything signed by this key unless it's revoked by a revoke certificate.
+> You can assume that even in extreme environment, anything signed using F085D7C448667DEF is signed by me personally. The private key only stored in tamper-proof, self-destructible hardwares. It's pretty impossible that anyone can get the private key. I will honor anything signed by this key unless it's revoked by a revoke certificate.
 >
-> I will read all the emails send to me@vx.st and vxst@riseup.net at least once a week. If you (using gmail, outlook and zju mail) can't contact me with GPG encrypted email that send to both addresses in 28 days, or the reply email is not signed by the 48667DEF key, you can assume I have been dead.
+> I will read all the emails send to me@vx.st and vxst@riseup.net at least once a week. If you (using gmail, outlook and zju mail) can't contact me with GPG encrypted email that send to both addresses in 28 days, or the reply email is not signed by the F085D7C448667DEF key, you can assume I have been dead.
 
 
 #### Situation Check
@@ -68,19 +69,20 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
 
 #### 我的联系方式：📧
  * Email：me@vx.st / vxst@riseup.net, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
- * GPG: [48667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
+ * GPG: [F085D7C448667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
   * Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
+  * 下文所述的F085D7C448667DEF，均指代指纹为上述指纹的GPG密钥
  * S/MIME: [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
  
 > 联系我最可靠的方式是邮件，没有之一。
 >
 > 我会保证至少每7天阅读一次邮件，包括使用S/MIME和GPG加密的邮件；对于GPG加密的邮件，由于私钥只存在于不可仿造，多重备份并且可以自毁的硬件中，可以确定只会由我读到。对于S/MIME，几乎只会由我读到，除非发生了严重的意外事件。
 >
-> 如果有条件，建议使用GPG发送邮件，并且使用以上链接提供的公钥。如果我在28天内没有回复GPG加密的消息，或者回复的消息没有有效的签名，你可以认为我已离世或遭受严重意外。对GPG加密的消息，我必然会在回复时使用48667DEF签名。如果收到了回复的消息，但没有使用48667DEF签名，很有可能不是我本人发送的邮件。注意我不会接收由国内邮件提供方发送的邮件，例如QQ邮箱，网易邮箱和新浪邮箱等，由于我公开邮件地址并且会阅读每一封邮件，如果允许这些提供商发送的邮件进入收件箱，收件箱会被广告堆满，因此不得不进行高度严格的垃圾邮件过滤。
+> 如果有条件，建议使用GPG发送邮件，并且使用以上链接提供的公钥。如果我在28天内没有回复GPG加密的消息，或者回复的消息没有有效的签名，你可以认为我已离世或遭受严重意外。对GPG加密的消息，我必然会在回复时使用F085D7C448667DEF签名。如果收到了回复的消息，但没有使用F085D7C448667DEF签名，很有可能不是我本人发送的邮件。注意我不会接收由国内邮件提供方发送的邮件，例如QQ邮箱，网易邮箱和新浪邮箱等，由于我公开邮件地址并且会阅读每一封邮件，如果允许这些提供商发送的邮件进入收件箱，收件箱会被广告堆满，因此不得不进行高度严格的垃圾邮件过滤。
 >
 > 我会百分百地收到所有以“@gmail.com”，“@outlook.com”或“@zju.edu.cn”结尾的邮件，并且会完整阅读。
 >
-> 对于GPG，可以视为经过48667DEF签署的一切内容都是我本人的内容。除非已经公开使用销毁证书销毁了这个key，我会对经过48667DEF签署的所有内容负责。
+> 对于GPG，可以视为经过F085D7C448667DEF签署的一切内容都是我本人的内容。除非已经公开使用销毁证书销毁了这个key，我会对经过F085D7C448667DEF签署的所有内容负责。
  
 ![Metrics](https://metrics.lecoq.io/vxst?template=terminal&base.indepth=false&config.timezone=Asia%2FSingapore)
 
