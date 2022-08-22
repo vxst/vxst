@@ -33,12 +33,13 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
   * Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
   * The F085D7C448667DEF mentioned in below always means the GPG key with the above fingerprint
  * S/MIME: [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
+  * You can verify the S/MIME certificate with the GPG key mentioned here
 
 > The only sure way to contact me is by email. 
 >
-> If you want high E2E security, use GPG, I'm very sure that it's safe. 
+> If you want high E2E security, use GPG, It's pretty hard to get a key from pin-verified, self-destructible and tamper-detactable hardware.
 >
-> If you want to use S/MIME, you can use the key specified above. The safety of S/MIME is worse than GPG, but normally it's more secure than plaintext.
+> If you want to use S/MIME, you can use the key specified above.
 >
 > You can assume that even in extreme environment, anything signed using F085D7C448667DEF is signed by me personally. The private key only stored in tamper-proof, self-destructible hardwares. It's pretty impossible that anyone can get the private key. I will honor anything signed by this key unless it's revoked by a revoke certificate.
 >
