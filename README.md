@@ -32,8 +32,13 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
  * GPG: [F085D7C448667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
   * Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
   * The F085D7C448667DEF mentioned in below always means the GPG key with the above fingerprint
- * S/MIME: [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
-  * You can verify the S/MIME certificate with the GPG key mentioned here
+
+ * S/MIME: 
+  * Please import and trust the MtF Accepted Root CA and import MtF Accepted SMIME EV2 first:
+   * [MtF Accepted Root CA](https://raw.githubusercontent.com/vxst/vxst/main/MtF_AC_ROOT.crt) / [MtF Accepted SMIME EV2](https://raw.githubusercontent.com/vxst/vxst/main/MtF_AC_EV2.crt)
+    * SHA1 Fingerprint of MtF Accepted Root CA: 9F36 DB13 315E F5A1 A92C D75E 20F5 C049 522E 7F26, it's also signed by the my GPG key metioned above
+    * Normally, for iOS, you can send an Email to yourself which include the certificates, and it can be imported automatically when open as attachment
+   * And the S/MIME certificates are: [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
 
 > The only sure way to contact me is by email. 
 >
@@ -73,7 +78,12 @@ I will bring bad luck to the "clan" and may influence the boy's gender identity)
  * GPG: [F085D7C448667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
   * Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
   * 下文所述的F085D7C448667DEF，均指代指纹为上述指纹的GPG密钥
- * S/MIME: [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
+ * S/MIME:
+  * 请先下载并确认信任[MtF Accepted Root CA](https://raw.githubusercontent.com/vxst/vxst/main/MtF_AC_ROOT.crt)
+   * 其SHA1指纹为9F36 DB13 315E F5A1 A92C D75E 20F5 C049 522E 7F26，同时它也经过上述GPG密钥的签名。
+  * 然后下载并导入SMIME中间证书[MtF Accepted SMIME EV2](https://raw.githubusercontent.com/vxst/vxst/main/MtF_AC_EV2.crt)
+  * 然后下载并导入我的邮件证书[me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) / [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
+  * 对于iOS，需要通过打开邮件附件的方式安装证书。
  
 > 联系我最可靠的方式是邮件，没有之一。
 >

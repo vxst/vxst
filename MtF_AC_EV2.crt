@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 5 (0x5)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN = MtF Accepted Root CA, O = MtF Accepted Platform, ST = Harju, C = EE, L = Tallinn
+        Validity
+            Not Before: Dec 31 22:00:00 2020 GMT
+            Not After : Dec 31 22:00:00 2025 GMT
+        Subject: CN = MtF Accepted SMIME EV2, O = MtF Accepted Platform, OU = Extended Personal Verification (EV2), ST = Harju, C = EE, L = Tallinn
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:b8:4c:1d:82:e7:f9:35:61:95:9c:26:26:21:da:
+                    fd:5f:9c:49:c5:6a:69:c0:5e:21:9c:47:95:6f:d4:
+                    1f:95:99:8c:90:bd:a0:3b:d9:41:ec:3b:4e:b2:94:
+                    fe:72:12:15:6c:cf:9d:88:6b:be:25:08:a1:3c:d1:
+                    02:3f:cb:61:26:16:e0:6a:b8:ca:ba:ab:59:53:45:
+                    b3:62:50:8d:fa:86:32:8f:11:3d:3a:15:df:66:2d:
+                    a4:d1:d7:da:4b:7a:62:4d:52:c9:ac:96:71:ad:9f:
+                    7f:4d:98:7b:f3:4e:01:5e:14:61:91:5c:e7:92:bb:
+                    2e:0c:ec:21:ff:2d:0c:27:1b:92:3c:cc:d6:03:09:
+                    54:ae:14:90:9f:67:6b:6c:33:fa:d7:b7:21:eb:9c:
+                    c9:37:6a:98:f8:01:b2:60:58:e6:4a:a4:95:73:2a:
+                    d6:6b:eb:af:bc:38:c6:c4:44:f7:9a:40:63:93:13:
+                    c9:63:50:9b:34:28:71:f3:ba:9b:aa:ed:3c:35:4e:
+                    c4:88:40:c8:bb:ae:cd:4c:59:71:62:38:8e:bc:d8:
+                    dc:b0:10:1b:73:6d:45:f7:5e:1d:7d:30:a5:31:e0:
+                    25:2d:f6:91:b3:95:9f:be:ea:26:47:14:24:09:26:
+                    1e:24:e4:eb:d6:25:54:eb:fa:ff:d9:2b:78:2e:76:
+                    78:4b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment, Certificate Sign
+            X509v3 Extended Key Usage: critical
+                E-mail Protection
+            X509v3 Subject Key Identifier: 
+                17:82:37:B0:AF:52:ED:71:04:77:32:DC:36:70:49:AB:BA:93:6E:D2
+            X509v3 Authority Key Identifier: 
+                keyid:92:C4:E5:47:43:4A:E8:67:77:2B:32:E4:41:7F:70:EC:8F:D4:AA:BC
+
+    Signature Algorithm: sha256WithRSAEncryption
+         94:bb:ab:ca:d0:2d:98:92:80:e0:fe:4a:01:23:b3:5d:85:98:
+         7f:45:7c:f8:86:74:67:1e:ea:37:57:32:f3:82:a0:eb:0d:a2:
+         73:cb:8e:cb:f0:96:0a:06:78:b7:1e:7c:12:31:41:29:28:fc:
+         6d:40:0a:09:c5:83:0e:26:02:e6:c4:99:4f:85:8c:44:19:1f:
+         14:cf:0b:cb:94:70:ad:10:e2:08:23:e9:bf:64:24:2e:b2:36:
+         ec:f9:18:3f:51:91:3a:69:3e:3a:35:d8:05:bd:33:3a:ff:a7:
+         fc:ef:b4:9d:c3:ec:1f:c2:65:27:6d:91:36:cc:a2:f4:68:ac:
+         36:7a:f9:df:ad:db:be:37:d3:40:ba:87:2d:de:ea:c8:09:51:
+         50:d1:00:80:a8:d4:0a:51:8a:df:9a:58:8f:cf:bf:76:e0:e4:
+         03:f3:18:b1:c1:a0:7f:39:bd:a4:d5:d6:73:0d:ab:49:b1:40:
+         f6:00:b5:08:ad:50:d1:f6:66:d6:c1:83:34:df:1c:93:a6:1d:
+         3c:1e:b1:38:4c:22:38:a4:f1:1e:80:53:e5:03:5b:4d:08:40:
+         e8:68:68:7a:0b:49:ac:fc:1d:d0:dc:a9:f5:73:85:ca:41:bd:
+         ba:0f:e9:15:68:b2:1b:05:73:6f:da:25:f4:e3:b7:48:98:14:
+         c3:05:f4:f7
+-----BEGIN CERTIFICATE-----
+MIIEBDCCAuygAwIBAgIBBTANBgkqhkiG9w0BAQsFADBuMR0wGwYDVQQDDBRNdEYg
+QWNjZXB0ZWQgUm9vdCBDQTEeMBwGA1UECgwVTXRGIEFjY2VwdGVkIFBsYXRmb3Jt
+MQ4wDAYDVQQIDAVIYXJqdTELMAkGA1UEBhMCRUUxEDAOBgNVBAcMB1RhbGxpbm4w
+HhcNMjAxMjMxMjIwMDAwWhcNMjUxMjMxMjIwMDAwWjCBnzEfMB0GA1UEAwwWTXRG
+IEFjY2VwdGVkIFNNSU1FIEVWMjEeMBwGA1UECgwVTXRGIEFjY2VwdGVkIFBsYXRm
+b3JtMS0wKwYDVQQLDCRFeHRlbmRlZCBQZXJzb25hbCBWZXJpZmljYXRpb24gKEVW
+MikxDjAMBgNVBAgMBUhhcmp1MQswCQYDVQQGEwJFRTEQMA4GA1UEBwwHVGFsbGlu
+bjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALhMHYLn+TVhlZwmJiHa
+/V+cScVqacBeIZxHlW/UH5WZjJC9oDvZQew7TrKU/nISFWzPnYhrviUIoTzRAj/L
+YSYW4Gq4yrqrWVNFs2JQjfqGMo8RPToV32YtpNHX2kt6Yk1SyayWca2ff02Ye/NO
+AV4UYZFc55K7LgzsIf8tDCcbkjzM1gMJVK4UkJ9na2wz+te3IeucyTdqmPgBsmBY
+5kqklXMq1mvrr7w4xsRE95pAY5MTyWNQmzQocfO6m6rtPDVOxIhAyLuuzUxZcWI4
+jrzY3LAQG3NtRfdeHX0wpTHgJS32kbOVn77qJkcUJAkmHiTk69YlVOv6/9kreC52
+eEsCAwEAAaN7MHkwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAqQwFgYD
+VR0lAQH/BAwwCgYIKwYBBQUHAwQwHQYDVR0OBBYEFBeCN7CvUu1xBHcy3DZwSau6
+k27SMB8GA1UdIwQYMBaAFJLE5UdDSuhndysy5EF/cOyP1Kq8MA0GCSqGSIb3DQEB
+CwUAA4IBAQCUu6vK0C2YkoDg/koBI7NdhZh/RXz4hnRnHuo3VzLzgqDrDaJzy47L
+8JYKBni3HnwSMUEpKPxtQAoJxYMOJgLmxJlPhYxEGR8UzwvLlHCtEOIII+m/ZCQu
+sjbs+Rg/UZE6aT46NdgFvTM6/6f877Sdw+wfwmUnbZE2zKL0aKw2evnfrdu+N9NA
+uoct3urICVFQ0QCAqNQKUYrfmliPz7924OQD8xixwaB/Ob2k1dZzDatJsUD2ALUI
+rVDR9mbWwYM03xyTph08HrE4TCI4pPEegFPlA1tNCEDoaGh6C0ms/B3Q3Kn1c4XK
+Qb26D+kVaLIbBXNv2iX047dImBTDBfT3
+-----END CERTIFICATE-----
