@@ -7,8 +7,8 @@ A mechanism to test for unsafe conditions, originating from the use of canaries 
 
  * The canary should be signed with the GPG key with following primary key fingerprint
  ```F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF```
- * This canary will be re-signed every month between 1st to 15th, start from September, 2022.
- * You can be pretty certain that I have dead if there is no signature after 15th.
+ * This canary will be re-signed every month between 1st to 5th, start from September, 2022.
+ * You can be pretty certain that I have dead if there is no signature after 5th.
  * The canary will only be stopped by a statement that is signed using the GPG key metioned above.
 
 
@@ -50,12 +50,15 @@ https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc
 
 This canary will only end due to my death, or I have got to a safe place. I
 will sign a statement using the same key if the latter happens.
+
+Time of this canary's signuture: 2022-09-04
+Next time of signuture: 2022-10-01 to 2022-10-05, inclusive.
 -----BEGIN PGP SIGNATURE-----
 
-iJsEARMJACMWIQR9JGsrIHSCVg0oIFYy2Kdb8s5m/QUCYwEYcgWDABZpgAAKCRAy
-2Kdb8s5m/VwgAX4uPg1rQfqcgK6IcI59m2lUx4LsFNV1ss9uZ4woymvHk26ehAOp
-tb9Q5Qe2ulA0aj0BgLEGSneRDM8d0maf1r5OIb/I6ZSVI+Lz2ESceT/qePjvMLXC
-8dseCbqhZRQybxm46A==
-=Ytnf
+iJsEARMJACMWIQR9JGsrIHSCVg0oIFYy2Kdb8s5m/QUCYxQ9YgWDACowAAAKCRAy
+2Kdb8s5m/cQXAX0fBiPeqX8oLOQxBhNZBSPlEJfa6tQjwo/o74TeDALH8VaX6Em2
+rwcelXto6Lwii48BfiOnjSY6S+tncYU+F9O+edMi4bgqvh2mw9578mpIyaD/Re4b
+IbbomN8LZt2IU2n0Hw==
+=4VD/
 -----END PGP SIGNATURE-----
 ```
