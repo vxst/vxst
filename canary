@@ -23,7 +23,7 @@ determined that they don't care about that).
 This canary will be re-signed every month between the 1st and 5th after August
 2022 with the GPG key with the following primary key fingerprint:
 
-F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
+F2A1 B804 3905 5888 0DFE BBA0 F085 D7C4 4866 7DEF
 
 This key can be fetched from:
 https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc
@@ -31,5 +31,5 @@ https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc
 This canary will only end due to my death, or I have got to a safe place. I
 will sign a statement using the same key if the latter happens.
 
-Time of this canary's signuture: 2022-11-05
-Next time of signuture: 2022-12-01 to 2022-12-05, inclusive.
+Time of this canary's signuture: 2022-12-04
+Next time of signuture: 2023-01-01 to 2023-01-05, inclusive.
