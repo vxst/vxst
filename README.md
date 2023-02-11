@@ -1,5 +1,7 @@
 # Help Needed: Trans women in China Keep Dying
 
+The twitter [link](https://twitter.com/thevxst/status/1624329417853124608), please retwitter it if possible.
+
 As a transgender woman in China, I am facing a life-threatening situation that is putting my existence and well-being at risk. In December of last year, the Chinese government banned access to hormone replacement therapy (HRT) [1] [2] [10], resulting in the deaths of several dozen trans women[3] [4] [5] [6] [7] [8] [9]. A website [11] has been created to document some of their stories after they passed away.
 
 My own family has turned their back on me. In their quest to continue their bloodline, they have gone on to have children with other partners[12]. Out of fear that I would negatively influence these children, they attempted to take my life[12]. I was able to escape their first attempt, but they have not given up on their plan to end my life. My parents hold high-ranking positions in the local government and have strong connections, making it even more difficult for me to seek help. They have gone as far as making my father's name "单烈" a forbidden tag on Weibo[13], and all reports about him are banned in China.
