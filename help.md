@@ -1,18 +1,27 @@
-# Help Needed: Trans women in China Keep Dying
+# Help Needed: Transgenders in China Keep Dying
 
 As a transgender woman in China, I am facing a life-threatening situation that is putting my existence and well-being at risk. In December of last year, the Chinese government banned access to hormone replacement therapy (HRT) [1] [2] [10], resulting in the deaths of several dozen trans women[3] [4] [5] [6] [7] [8] [9]. A website [11] has been created to document some of their stories after they passed away.
 
 In just the realm of my knowledge, from January 1st 2023 to now, 58 transgender individuals have lost their lives, averaging out to one person every day. The extent of my knowledge is limited to those who had a Twitter account or were active on QQ. On Twitter, there have been 21 confirmed deaths among transgender individuals, and in my other social circles, mainly on QQ, there have been 37 confirmed deaths. This is an unprecedented and devastating loss of life, and it is heartbreaking to think about the countless others who have suffered and passed away beyond the scope of my knowledge. These individuals were someone's friends, family members, and loved ones, and their loss is a profound tragedy that must not be ignored.
 
-The reality is that transgender individuals in China are being **erased**, and deaths are happening at an alarming rate *RIGHT NOW*. As a transgender woman myself, I am experiencing these difficulties firsthand and am in dire need of help and protection from both the government and my own family.
+The situation for transgender individuals in China is dire, with ongoing erasure of lives and increasing deaths happening right now. The government's **persecution and discrimination** against this community is unacceptable and must be addressed immediately.
 
-The situation is beyond critical, and I implore the international community to take action and offer support in our fight for survival. **Every day**, more and more members of our community are losing their lives, and it is crucial that we receive support and assistance from those whoever can help.
+As a member of the transgender community, the dire situation is all too familiar and highlights the urgent need for help and protection. Every day, Chinese transgenders, including myself[12], are facing threats and losing lives. It is imperative that the international community takes action and offers support in our fight for survival. The loss of so many lives is a tragedy that cannot be ignored, and it is imperative that action is taken to support us from this ongoing persecution.
+
+All we ask for is only a chance to live.
 
 Chunqing "Jyn" Shan
 
 2022-02-11
 
-The twitter [link](https://twitter.com/thevxst/status/1624329417853124608), please retwitter it if possible.
+### How you can help
+
+1. Retweet this [twitter](https://twitter.com/thevxst/status/1624329417853124608) linked to the article to spread awareness about current situation faced by the transgender community in China. Your help will be critical.
+2. Contact elected representatives or international organizations to raise awareness of this ongoing persecution, every voice counts.
+
+Your support and action can make a significant difference in the lives of transgender individuals in China.
+
+Save lives. Help us.
 
 ## Lost Lives: Remembering Those Who Should Still Be Here
 
@@ -24,11 +33,9 @@ The twitter [link](https://twitter.com/thevxst/status/1624329417853124608), plea
 
 ### And 54 others.
 
-## My record on Twitter
-
 ![Twitter](people/rip.jpg)
 
-#### Contact me
+#### How to contact me
 
 * Email: vxst@riseup.net
 * Telegram: https://t.me/thevxst
@@ -48,4 +55,3 @@ The twitter [link](https://twitter.com/thevxst/status/1624329417853124608), plea
  10. [Central Government's Decision about Trans](https://twitter.com/Homura_Alter/status/1612584118658768896)
  11. [One among us](https://one-among.us/)
  12. [My Infomation](https://twitter.com/thevxst/status/1463063120734154758)
- 13. [weibo](http://weibo.cn/)
