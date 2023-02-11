@@ -4,7 +4,7 @@ As a transgender woman in China, I am facing a life-threatening situation that i
 
 My own family has turned their back on me. In their quest to continue their bloodline, they have gone on to have children with other partners[12]. Out of fear that I would negatively influence these children, they attempted to take my life[12]. I was able to escape their first attempt, but they have not given up on their plan to end my life. My parents hold high-ranking positions in the local government and have strong connections, making it even more difficult for me to seek help. They have gone as far as making my father's name "单烈" a forbidden tag on Weibo[13], and all reports about him are banned in China.
 
-I am desperately seeking help and protection from both the Chinese government and my own parents. I am reaching out to anyone who can offer support in my fight for survival. The situation is extremely urgent, and I need all the help I can get. I hope this message can spread awareness of the difficulties faced by transgender women in China and lead to actions that will help those in need.
+I am desperately seeking help and protection against both the Chinese government and my own parents. I am reaching out to anyone who can offer support in my fight for survival. The situation is extremely urgent, and I need all the help I can get. I hope this message can spread awareness of the difficulties faced by transgender women in China and lead to actions that will help those in need.
 
 Chunqing "Jyn" Shan 单春晴
 
