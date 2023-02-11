@@ -1,4 +1,4 @@
-## Help Needed: Trans women in China Keep Dying
+# Help Needed: Trans women in China Keep Dying
 
 As a transgender woman in China, I am facing a life-threatening situation that is putting my existence and well-being at risk. In December of last year, the Chinese government banned access to hormone replacement therapy (HRT) [1] [2] [10], resulting in the deaths of several dozen trans women[3] [4] [5] [6] [7] [8] [9]. A website [11] has been created to document some of their stories after they passed away.
 
@@ -10,19 +10,21 @@ Chunqing "Jyn" Shan 单春晴
 
 2022-02-11
 
-[1]: https://www.suzhou.gov.cn/szsrmzf/zdlyscgzbz/202212/9721c24858c94231911b31de47f19d4d.shtml
-[2]: https://finance.sina.cn/chanjing/gdxw/2022-11-03/detail-imqmmthc3169517.d.html
-[3]: https://one-among.us/profile/noname3031
-[4]: https://one-among.us/profile/wangzihao980
-[5]: https://one-among.us/profile/Anilovr
-[6]: https://one-among.us/profile/dogesir_
-[7]: https://one-among.us/profile/suzuki
-[8]: https://one-among.us/profile/homoyamakaze
-[9]: https://twitter.com/torontobigface/status/1623969832810201088
-[10]: https://twitter.com/Homura_Alter/status/1612584118658768896
-[11]: https://one-among.us/
-[12]: https://twitter.com/thevxst/status/1463063120734154758
-[13]: http://weibo.cn/
+#### References
+
+ 1. [Central Government Updated Banned Medicine List](https://www.suzhou.gov.cn/szsrmzf/zdlyscgzbz/202212/9721c24858c94231911b31de47f19d4d.shtml)
+ 2. [New Medicine will take effect in December](https://finance.sina.cn/chanjing/gdxw/2022-11-03/detail-imqmmthc3169517.d.html)
+ 3. [noah](https://one-among.us/profile/noname3031)
+ 4. [Chica 陈由岐](https://one-among.us/profile/wangzihao980)
+ 5. [Anilovr](https://one-among.us/profile/Anilovr)
+ 6. [蓝狗](https://one-among.us/profile/dogesir_)
+ 7. [浅羽猫头](https://one-among.us/profile/homoyamakaze)
+ 8. [星云 羽雪](https://twitter.com/akasa_musha)
+ 9. [Comments on deaths](https://twitter.com/torontobigface/status/1623969832810201088)
+ 10. [Central Government's Decision about Trans](https://twitter.com/Homura_Alter/status/1612584118658768896)
+ 11. [One among us](https://one-among.us/)
+ 12. [My Infomation](https://twitter.com/thevxst/status/1463063120734154758)
+ 13. [weibo](http://weibo.cn/)
 
 ---
 
@@ -52,26 +54,11 @@ Supercomputing Cluster Manager in ZJU.
 * [MtF Party!](https://mtf.party): A site contains guides on how to live/hide and
 get medical support as a MtF transgender
 
-#### Contact 📧
+#### Contact me
 
-* Email: me@vx.st / vxst@riseup.net
-* GPG: [F085D7C448667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc)
-  * Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF
-  * The F085D7C448667DEF mentioned in below always means the GPG key with the
-above fingerprint
-
-* S/MIME:
-  * Please import and trust the MtF Accepted Root CA and import MtF Accepted
-  SMIME EV2 first:
-    * [MtF Accepted Root CA](https://raw.githubusercontent.com/vxst/vxst/main/MtF_AC_ROOT.crt)
-      / [MtF Accepted SMIME EV2](https://raw.githubusercontent.com/vxst/vxst/main/MtF_AC_EV2.crt)
-    * SHA1 Fingerprint of MtF Accepted Root CA: 9F36 DB13 315E F5A1 A92C D75E
-      20F5 C049 522E 7F26, it's also signed by the my GPG key metioned above
-    * Normally, for iOS, you can send an Email to yourself which include the
-  certificates, and it can be imported automatically when open as attachment
-  * And the S/MIME certificates are:
-    [me@vx.st](https://raw.githubusercontent.com/vxst/vxst/main/me_vxst.crt) /
-    [vxst@riseup.net](https://raw.githubusercontent.com/vxst/vxst/main/vxst_riseup.crt)
+* Email: vxst@riseup.net
+* Telegram: https://t.me/thevxst
+* Twitter: https://twitter.com/thevxst
 
 > The only sure way to contact me is by email.
 >

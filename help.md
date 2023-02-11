@@ -10,16 +10,24 @@ Chunqing "Jyn" Shan 单春晴
 
 2022-02-11
 
-[1]: https://www.suzhou.gov.cn/szsrmzf/zdlyscgzbz/202212/9721c24858c94231911b31de47f19d4d.shtml
-[2]: https://finance.sina.cn/chanjing/gdxw/2022-11-03/detail-imqmmthc3169517.d.html
-[3]: https://one-among.us/profile/noname3031
-[4]: https://one-among.us/profile/wangzihao980
-[5]: https://one-among.us/profile/Anilovr
-[6]: https://one-among.us/profile/dogesir_
-[7]: https://one-among.us/profile/suzuki
-[8]: https://one-among.us/profile/homoyamakaze
-[9]: https://twitter.com/torontobigface/status/1623969832810201088
-[10]: https://twitter.com/Homura_Alter/status/1612584118658768896
-[11]: https://one-among.us/
-[12]: https://twitter.com/thevxst/status/1463063120734154758
-[13]: http://weibo.cn/
+#### Contact me
+
+* Email: vxst@riseup.net
+* Telegram: https://t.me/thevxst
+* Twitter: https://twitter.com/thevxst
+
+#### References
+
+ 1. [Central Government Updated Banned Medicine List](https://www.suzhou.gov.cn/szsrmzf/zdlyscgzbz/202212/9721c24858c94231911b31de47f19d4d.shtml)
+ 2. [New Medicine will take effect in December](https://finance.sina.cn/chanjing/gdxw/2022-11-03/detail-imqmmthc3169517.d.html)
+ 3. [noah](https://one-among.us/profile/noname3031)
+ 4. [Chica 陈由岐](https://one-among.us/profile/wangzihao980)
+ 5. [Anilovr](https://one-among.us/profile/Anilovr)
+ 6. [蓝狗](https://one-among.us/profile/dogesir_)
+ 7. [浅羽猫头](https://one-among.us/profile/homoyamakaze)
+ 8. [星云 羽雪](https://twitter.com/akasa_musha)
+ 9. [Comments on deaths](https://twitter.com/torontobigface/status/1623969832810201088)
+ 10. [Central Government's Decision about Trans](https://twitter.com/Homura_Alter/status/1612584118658768896)
+ 11. [One among us](https://one-among.us/)
+ 12. [My Infomation](https://twitter.com/thevxst/status/1463063120734154758)
+ 13. [weibo](http://weibo.cn/)
