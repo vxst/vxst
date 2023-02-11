@@ -1,4 +1,4 @@
-## Urgent Appeal: Trans woman in China Fights for Survival
+## Help Needed: Trans women in China Keep Dying
 
 As a transgender woman in China, I am facing a life-threatening situation that is putting my existence and well-being at risk. In December of last year, the Chinese government banned access to hormone replacement therapy (HRT) [1] [2] [10], resulting in the deaths of several dozen trans women[3] [4] [5] [6] [7] [8] [9]. A website [11] has been created to document some of their stories after they passed away.
 
