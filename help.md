@@ -10,7 +10,7 @@ Chunqing "Jyn" Shan 单春晴
 
 2022-02-11
 
-The twitter [link](https://twitter.com/thevxst/status/1624329417853124608)
+The twitter [link](https://twitter.com/thevxst/status/1624329417853124608), please retwitter it if possible.
 
 #### Contact me
 
