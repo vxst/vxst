@@ -1,14 +1,14 @@
 # Help Needed: Transgenders in China Keep Dying
 
-As a transgender woman in China, I am facing a life-threatening situation that is putting my existence and well-being at risk. In December of last year, the Chinese government banned access to hormone replacement therapy (HRT) [1] [2] [10], resulting in the deaths of several dozen trans women[3] [4] [5] [6] [7] [8] [9]. A website [11] has been created to document some of their stories after they passed away.
+In China, transgenders face a life-threatening situation that puts our existence at risk. In December 2022, the Chinese government banned hormone replacement therapy (HRT) by banning HRT-related medicines at sale points[1] [2] [10] and forbidding the transgendering practice in education organizations, such as high schools and universities[13] [16]. The Supreme People's Procuratorate of China is supervising the crime cases of being so-called **"illegal transfemales"**[14]. The school and universities are focusing on *eliminating* **illegal transgendering activities** on campus[16]. The producer of HRT medicines said they might stop producing hormone products[15]. Those policies have resulted in the deaths of several dozen transgender [3] [4] [5] [6] [7] [8] [9]. A website [11] has been created to document some of their stories after they passed away.
 
-In just the realm of my knowledge, from January 1st 2023 to now, 58 transgender individuals have lost their lives, averaging out to one person every day. The extent of my knowledge is limited to those who had a Twitter account or were active on QQ. On Twitter, there have been 21 confirmed deaths among transgender individuals, and in my other social circles, mainly on QQ, there have been 37 confirmed deaths. This is an unprecedented and devastating loss of life, and it is heartbreaking to think about the countless others who have suffered and passed away beyond the scope of my knowledge. These individuals were someone's friends, family members, and loved ones, and their loss is a profound tragedy that must not be ignored.
+From January 1, 2023 to the present, I am aware of 58 transgender individuals who have lost their lives, averaging out to one person every day. My knowledge is limited to those who had a Twitter account or were active on QQ. On Twitter, there have been 21 confirmed deaths among transgender individuals, and in my other social circles, mainly on QQ, there have been 37 confirmed deaths. This is an unprecedented and devastating loss of life, and it is heartbreaking to think about the countless others who have suffered and passed away beyond the scope of my knowledge. These individuals were someone's friends, family members, and loved ones, and their loss is a profound tragedy that must not be ignored.
 
-The situation for transgender individuals in China is dire, with ongoing erasure of lives and increasing deaths happening right now. The government's **persecution and discrimination** against this community is unacceptable and must be addressed immediately.
+The situation for transgender individuals in China is dire, with ongoing erasure of lives and increasing deaths happening right now. The government's persecution and discrimination against this community is unacceptable and must be addressed immediately.
 
-As a member of the transgender community, the dire situation is all too familiar and highlights the urgent need for help and protection. Every day, Chinese transgenders, including myself[12], are facing threats and losing lives. It is imperative that the international community takes action and offers support in our fight for survival. The loss of so many lives is a tragedy that cannot be ignored, and it is imperative that action is taken to support us from this ongoing persecution.
+As a member of the transgender community, I am all too familiar with the dire situation, which highlights the urgent need for help and protection. Every day, Chinese transgenders, including myself [12], are facing threats and losing lives. It is imperative that the international community takes action and offers support in our fight for survival. The loss of so many lives is a tragedy that cannot be ignored, and it is imperative that action is taken to support us from this ongoing persecution.
 
-All we ask for is only a chance to live.
+All we ask for is a chance to live.
 
 Chunqing "Jyn" Shan
 
@@ -55,3 +55,7 @@ Save lives. Help us.
  10. [Central Government's Decision about Trans](https://twitter.com/Homura_Alter/status/1612584118658768896)
  11. [One among us](https://one-among.us/)
  12. [My Infomation](https://twitter.com/thevxst/status/1463063120734154758)
+ 13. [Wuhan Jaidian Foreign Language Shi Yan School No Hormone Replacement Therapy Agreement](./policy/l1.jpg)
+ 14. [The Supreme People's Procuratorate of China is Supervising the crime cases of being illegal transfemales](./policy/l2.jpg)
+ 15. [Manufacturer of HRT medicines said it might discontinue manufacturing those medicines](./policy/l3.jpg)
+ 16. [Schools and Universities are focusing on Elimating Illegal Transgenders In Campus](./policy/l3.jpg)
