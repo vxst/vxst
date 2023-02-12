@@ -36,7 +36,6 @@ Save lives. Help us.
 
 ### And 54 others.
 
-![Twitter](people/rip.jpg)
 
 #### How to contact me
 
@@ -62,3 +61,6 @@ Save lives. Help us.
  14. [The Supreme People's Procuratorate of China is Supervising the crime cases of being illegal transfemales](./policy/l2.jpg)
  15. [Manufacturer of HRT medicines said it might discontinue manufacturing those medicines](./policy/l3.jpg)
  16. [Schools and Universities are focusing on Elimating Illegal Transgenders In Campus](./policy/l3.jpg)
+
+
+![Twitter](people/rip.jpg)
