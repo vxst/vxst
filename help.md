@@ -35,13 +35,13 @@ Updated on 2023-02-17
 
 We carried out a "Clean Source" hundred-day special operation to crack down on illegal activities involving prostitution and gambling, and launched a special operation to destroy illegal transgenders.
 
-From Chi Feng City's official Weixing Public Account:
+From **Chi Feng City's** official Weixing Public Account:
 
 **Ref. 1:**
 
-https://mp.weixin.qq.com/s?__biz=MzA5ODYzMTI1NQ==&mid=2650367212&idx=8&sn=ca5748a8e12bf85474a7e105e255f42d&chksm=88836fd4bff4e6c2132405ca24caad73f4bdf3b21c09efb1a126267b0c3098ac0c33997f5d66&scene=27
+[https://mp.weixin.qq.com/s?__biz=MzA5ODYzMTI1NQ==&mid=2650367212&idx=8&sn=ca5748a8e12bf85474a7e105e255f42d&chksm=88836fd4bff4e6c2132405ca24caad73f4bdf3b21c09efb1a126267b0c3098ac0c33997f5d66&scene=27](https://mp.weixin.qq.com/s?__biz=MzA5ODYzMTI1NQ==&mid=2650367212&idx=8&sn=ca5748a8e12bf85474a7e105e255f42d&chksm=88836fd4bff4e6c2132405ca24caad73f4bdf3b21c09efb1a126267b0c3098ac0c33997f5d66&scene=27)
 
-https://archive.ph/1e2Fm
+[https://archive.ph/1e2Fm](https://archive.ph/1e2Fm)
 
 **This is a NATIONAL OPERATION, not just a local one.**
 
@@ -49,13 +49,13 @@ https://archive.ph/1e2Fm
 
 We carried out a "Clean Source" hundred-day special operation to crack down on illegal activities involving prostitution and gambling, and launched a special operation to destroy illegal transgenders.
 
-From Alukeerqin City's official Weixing Public Account:
+From **Alukeerqin City's** official Weixing Public Account:
 
 **Ref. 2:**
 
-https://mp.weixin.qq.com/s?__biz=MzA5MDgxMTcyMQ==&mid=2652540523&idx=2&sn=d0e61e7d5374368a03bf98e95e7f839f&chksm=8bebd24dbc9c5b5be0686c4efce3bd635351eeb4fda3741e6e300f7980aa43b4ab264f008995&scene=27
+[https://mp.weixin.qq.com/s?__biz=MzA5MDgxMTcyMQ==&mid=2652540523&idx=2&sn=d0e61e7d5374368a03bf98e95e7f839f&chksm=8bebd24dbc9c5b5be0686c4efce3bd635351eeb4fda3741e6e300f7980aa43b4ab264f008995&scene=27](https://mp.weixin.qq.com/s?__biz=MzA5MDgxMTcyMQ==&mid=2652540523&idx=2&sn=d0e61e7d5374368a03bf98e95e7f839f&chksm=8bebd24dbc9c5b5be0686c4efce3bd635351eeb4fda3741e6e300f7980aa43b4ab264f008995&scene=27)
 
-https://archive.ph/50rK8
+[https://archive.ph/50rK8](https://archive.ph/50rK8)
 
 **This is a NATIONAL OPERATION, not just a local one.**
 
@@ -63,25 +63,25 @@ https://archive.ph/50rK8
 
 The provincial authority organized the investigation and handling of major cases such as the "Shenzhen Illegal Transgenders Case", the "Li Xuliang Illegal Business Case", and the "Li Jianhong Unlicensed Business Case", and the criminals were brought to justice.
 
-From the Guang Dong Province's official report:
+From the **Guang Dong Province's** official report:
 
 **Ref. 3:**
 
-http://mpa.gd.gov.cn/zwgk/ghjh/ndgzjh/content/post_2167399.html
+[http://mpa.gd.gov.cn/zwgk/ghjh/ndgzjh/content/post_2167399.html](http://mpa.gd.gov.cn/zwgk/ghjh/ndgzjh/content/post_2167399.html)
 
-https://web.archive.org/web/20230216093502/http%3A%2F%2Fmpa.gd.gov.cn%2Fzwgk%2Fghjh%2Fndgzjh%2Fcontent%2Fpost_2167399.html
+[https://web.archive.org/web/20230216093502/http%3A%2F%2Fmpa.gd.gov.cn%2Fzwgk%2Fghjh%2Fndgzjh%2Fcontent%2Fpost_2167399.html](https://web.archive.org/web/20230216093502/http%3A%2F%2Fmpa.gd.gov.cn%2Fzwgk%2Fghjh%2Fndgzjh%2Fcontent%2Fpost_2167399.html)
 
 ### **Illegal Transgenders** Are Sentenced With Drug Trafficking Criminals
 
 8、We have carried out in-depth actions to destroy drugs and prohibit gambling. We have launched a 100-day campaign to crack down on illegal activities, and special operations to rectify underground mobile gambling venues and the illegal transgender group, among other criminal activities. Throughout the city, we handled 20 cases of illegal transgender, and drug trafficking and sentenced the criminals. We also handled 208 cases of gambling.
 
-From "Celebrating the 100th anniversary of the Chinese Communist Party" news report in Sina, one of the largest news sites in China.
+From **"Celebrating the 100th anniversary of the Chinese Communist Party"** news report in Sina, one of the largest news sites in China.
 
 **Ref. 4:**
 
-http://k.sina.com.cn/article_7517400647_1c0126e470590150pc.html
+[http://k.sina.com.cn/article_7517400647_1c0126e470590150pc.html](http://k.sina.com.cn/article_7517400647_1c0126e470590150pc.html)
 
-https://web.archive.org/web/20230216091224/http%3A%2F%2Fk.sina.com.cn%2Farticle_7517400647_1c0126e470590150pc.html#/
+[https://web.archive.org/web/20230216091224/http%3A%2F%2Fk.sina.com.cn%2Farticle_7517400647_1c0126e470590150pc.html](https://web.archive.org/web/20230216091224/http%3A%2F%2Fk.sina.com.cn%2Farticle_7517400647_1c0126e470590150pc.html)
 
 ### Negative Online Phenomena Such As Transgender and LGBT
 
@@ -89,21 +89,21 @@ During the activity, various schools focused on the theme of "Clear and Pure Int
 
 **Ref. 5:**
 
-Wangdu City's official report:
+**Wangdu City**'s official report:
 
-https://www.wangdu.gov.cn/col/1618902456638/2022/06/09/1654737864912.html
+[https://www.wangdu.gov.cn/col/1618902456638/2022/06/09/1654737864912.html](https://www.wangdu.gov.cn/col/1618902456638/2022/06/09/1654737864912.html)
 
-https://web.archive.org/web/20230216110422/https%3A%2F%2Fwww.wangdu.gov.cn%2Fcol%2F1618902456638%2F2022%2F06%2F09%2F1654737864912.html
+[https://web.archive.org/web/20230216110422/https%3A%2F%2Fwww.wangdu.gov.cn%2Fcol%2F1618902456638%2F2022%2F06%2F09%2F1654737864912.html](https://web.archive.org/web/20230216110422/https%3A%2F%2Fwww.wangdu.gov.cn%2Fcol%2F1618902456638%2F2022%2F06%2F09%2F1654737864912.html)
 
 ### Fujian Province Successfully Destroyed LGBT related Publications
 
 We focused on cracking down on harmful audio and video materials that contain sexual implications, soft pornography, bullying and violence, and we destroyed illegal publications on "Bible", LGBT (sexual minority groups), pirated children's picture books, and teaching materials for primary and secondary schools. We also strengthened content supervision and review of anime, online dramas, and variety shows involving minors, in order to build a safe and healthy cultural environment for young people.
 
-From Fujian Province's official report:
+From **Fujian Province's** official report:
 
-http://www.fjxuanchuan.cn/ztzl/dhsf/bstj/202205/t20220507_6254.htm
+[http://www.fjxuanchuan.cn/ztzl/dhsf/bstj/202205/t20220507_6254.htm](http://www.fjxuanchuan.cn/ztzl/dhsf/bstj/202205/t20220507_6254.htm)
 
-https://web.archive.org/web/20221225154501/http:/www.fjxuanchuan.cn/ztzl/dhsf/bstj/202205/t20220507_6254.htm
+[https://web.archive.org/web/20221225154501/http:/www.fjxuanchuan.cn/ztzl/dhsf/bstj/202205/t20220507_6254.htm](https://web.archive.org/web/20221225154501/http:/www.fjxuanchuan.cn/ztzl/dhsf/bstj/202205/t20220507_6254.htm)
 
 ## References
 
