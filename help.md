@@ -155,4 +155,4 @@ Save us, PLEASE. We just want to live.
 
 ### And 57 others.
 
-![Twitter](people/rip.jpg
+![Twitter](people/rip.jpg)
