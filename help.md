@@ -37,7 +37,7 @@ We carried out a "Clean Source" hundred-day special operation to crack down on i
 
 From Chi Feng City's official Weixing Public Account:
 
-Ref. 1:
+**Ref. 1:**
 
 https://mp.weixin.qq.com/s?__biz=MzA5ODYzMTI1NQ==&mid=2650367212&idx=8&sn=ca5748a8e12bf85474a7e105e255f42d&chksm=88836fd4bff4e6c2132405ca24caad73f4bdf3b21c09efb1a126267b0c3098ac0c33997f5d66&scene=27
 
@@ -51,7 +51,7 @@ We carried out a "Clean Source" hundred-day special operation to crack down on i
 
 From Alukeerqin City's official Weixing Public Account:
 
-Ref. 2:
+**Ref. 2:**
 
 https://mp.weixin.qq.com/s?__biz=MzA5MDgxMTcyMQ==&mid=2652540523&idx=2&sn=d0e61e7d5374368a03bf98e95e7f839f&chksm=8bebd24dbc9c5b5be0686c4efce3bd635351eeb4fda3741e6e300f7980aa43b4ab264f008995&scene=27
 
@@ -65,7 +65,7 @@ The provincial authority organized the investigation and handling of major cases
 
 From the Guang Dong Province's official report:
 
-Ref. 3:
+**Ref. 3:**
 
 http://mpa.gd.gov.cn/zwgk/ghjh/ndgzjh/content/post_2167399.html
 
@@ -77,7 +77,7 @@ https://web.archive.org/web/20230216093502/http%3A%2F%2Fmpa.gd.gov.cn%2Fzwgk%2Fg
 
 From "Celebrating the 100th anniversary of the Chinese Communist Party" news report in Sina, one of the largest news sites in China.
 
-Ref. 4:
+**Ref. 4:**
 
 http://k.sina.com.cn/article_7517400647_1c0126e470590150pc.html
 
@@ -87,7 +87,7 @@ https://web.archive.org/web/20230216091224/http%3A%2F%2Fk.sina.com.cn%2Farticle_
 
 During the activity, various schools focused on the theme of "Clear and Pure Internet in Yan Zhao" and fully utilized various promotional media such as bulletin boards, bulletin columns, public accounts, LED screens, banners, and short videos to publicize the harm of negative online phenomena such as transgender and LGBT to students.
 
-Ref. 5:
+**Ref. 5:**
 
 Wangdu City's official report:
 
@@ -107,23 +107,32 @@ https://web.archive.org/web/20221225154501/http:/www.fjxuanchuan.cn/ztzl/dhsf/bs
 
 ## References
 
- 6. [Central Government Updated Banned Medicine List](https://www.suzhou.gov.cn/szsrmzf/zdlyscgzbz/202212/9721c24858c94231911b31de47f19d4d.shtml / https://archive.ph/CmRgQ)
- 7. [New Medicine Ban will take effect in December](https://finance.sina.cn/chanjing/gdxw/2022-11-03/detail-imqmmthc3169517.d.html / https://archive.ph/2royb)
- 8. [noah](https://one-among.us/profile/noname3031)
- 9. [Chica 陈由岐](https://one-among.us/profile/wangzihao980)
- 10. [Anilovr](https://one-among.us/profile/Anilovr)
- 11. [蓝狗](https://one-among.us/profile/dogesir_)
- 12. [浅羽猫头](https://one-among.us/profile/homoyamakaze)
- 13. [星云 羽雪](https://twitter.com/akasa_musha)
- 14. [Comments on deaths](https://twitter.com/torontobigface/status/1623969832810201088)
- 15. [Central Government's Decision about Trans](https://twitter.com/Homura_Alter/status/1612584118658768896)
- 16. [Wuhan Jiulong Renfu Medicine Co., Ltd.](./policy/p1.jpg)
+Ref. 6. [Central Government Updated Banned Medicine List](https://www.suzhou.gov.cn/szsrmzf/zdlyscgzbz/202212/9721c24858c94231911b31de47f19d4d.shtml) Archive: https://archive.ph/CmRgQ
+
+Ref. 7. [New Medicine Ban will take effect in December](https://finance.sina.cn/chanjing/gdxw/2022-11-03/detail-imqmmthc3169517.d.html) Archive: https://archive.ph/2royb
+
+Ref. 8: [noah](https://one-among.us/profile/noname3031)
+
+Ref. 9: [Chica 陈由岐](https://one-among.us/profile/wangzihao980)
+Ref. 10: [Anilovr](https://one-among.us/profile/Anilovr)
+
+Ref. 11: [蓝狗](https://one-among.us/profile/dogesir_)
+
+Ref. 12: [浅羽猫头](https://one-among.us/profile/homoyamakaze)
+
+Ref. 13: [星云 羽雪](https://twitter.com/akasa_musha)
+
+Ref. 14: [Comments on deaths](https://twitter.com/torontobigface/status/1623969832810201088)
+
+Ref. 15: [Central Government's Decision about Trans](https://twitter.com/Homura_Alter/status/1612584118658768896)
+
+Ref. 16: [Wuhan Jiulong Renfu Medicine Co., Ltd.](./policy/p1.jpg)
 
 ## How you can help
 
 * Contact your elected representatives or international organizations to raise awareness of this ongoing persecution, every voice counts.
 * Contact journalist you know to raise awareness of this ongoing persecution, every voice counts.
-* Retweet this [twitter](https://twitter.com/thevxst/status/1624329417853124608) linked to the article.
+* Retweet this [twitter](https://twitter.com/thevxst/status/1626568169824591872) linked to the article.
 
 Your support and action can make a significant difference in the lives of transgender individuals in China.
 
@@ -143,4 +152,4 @@ Save us, PLEASE. We just want to live.
 
 ### And 57 others.
 
-![Twitter](people/rip.jpg)
+![Twitter](people/rip.jpg
