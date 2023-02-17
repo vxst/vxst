@@ -9,7 +9,7 @@ In China, transgender faces a life-threatening situation.
 * The Supreme People's Procuratorate of China is supervising the crime cases of **being illegal transgenders**.  [15]
 * The producer of HRT medicines said they might stop producing hormone products. [16]
 
-Those policies have **resulted in the deaths of several dozen transgender** already.
+Those policies have **resulted in the deaths of several dozen transgender** already. [8] [9] [10] [11] [12] [13] [14]
 
 From January 1, 2023 to the February 11th, 2023, there are at least **58 transgenders lost their lives**(update on 2023-02-17, there are 3 more transgender lost their lives), averaging out to one person every day. My knowledge is limited to those who had a Twitter account or were active on QQ. On Twitter, there have been 21 confirmed deaths among transgender individuals, and in my other social circles, mainly on QQ, there have been 37 confirmed deaths. This is an unprecedented and devastating loss of life, and it is heartbreaking to think about the countless others who have suffered and passed away beyond the scope of my knowledge. These individuals were someone's friends, family members, and loved ones, and their loss is a profound tragedy that must not be ignored.
 
@@ -114,6 +114,7 @@ Ref. 7. [New Medicine Ban will take effect in December](https://finance.sina.cn/
 Ref. 8: [noah](https://one-among.us/profile/noname3031)
 
 Ref. 9: [Chica 陈由岐](https://one-among.us/profile/wangzihao980)
+
 Ref. 10: [Anilovr](https://one-among.us/profile/Anilovr)
 
 Ref. 11: [蓝狗](https://one-among.us/profile/dogesir_)
