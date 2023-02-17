@@ -11,7 +11,7 @@ In China, transgender faces a life-threatening situation.
 
 Those policies have **resulted in the deaths of several dozen transgender** already. [8] [9] [10] [11] [12] [13] [14]
 
-From January 1, 2023 to the February 11th, 2023, there are at least **58 transgenders lost their lives**(update on 2023-02-17, there are 3 more transgender lost their lives), averaging out to one person every day. My knowledge is limited to those who had a Twitter account or were active on QQ. On Twitter, there have been 21 confirmed deaths among transgender individuals, and in my other social circles, mainly on QQ, there have been 37 confirmed deaths. This is an unprecedented and devastating loss of life, and it is heartbreaking to think about the countless others who have suffered and passed away beyond the scope of my knowledge. These individuals were someone's friends, family members, and loved ones, and their loss is a profound tragedy that must not be ignored.
+From January 1, 2023 to the February 11th, 2023, there are at least **58 transgenders lost their lives**(update on 2023-02-17, there are 3 more transgender lost their lives), averaging out to one person every day. There is already transgender that is forced to be a refugee[17]. My knowledge is limited to those who had a Twitter account or were active on QQ. On Twitter, there have been 21 confirmed deaths among transgender individuals, and in my other social circles, mainly on QQ, there have been 37 confirmed deaths. This is an unprecedented and devastating loss of life, and it is heartbreaking to think about the countless others who have suffered and passed away beyond the scope of my knowledge. These individuals were someone's friends, family members, and loved ones, and their loss is a profound tragedy that must not be ignored.
 
 The situation for transgender individuals in China is dire, with ongoing erasure of lives and increasing deaths **happening right now**. The government's **persecution and discrimination** against transgender is unacceptable and must be addressed immediately.
 
@@ -128,6 +128,8 @@ Ref. 14: [Comments on deaths](https://twitter.com/torontobigface/status/16239698
 Ref. 15: [Central Government's Decision about Trans](https://twitter.com/Homura_Alter/status/1612584118658768896)
 
 Ref. 16: [Wuhan Jiulong Renfu Medicine Co., Ltd.](./policy/p1.jpg)
+
+Ref. 17: [刘以翎 | 赌上生命的踽踽万里 并非孤立无援](https://yibaochina.com/?p=249487)
 
 ## How you can help
 
