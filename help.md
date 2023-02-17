@@ -129,7 +129,7 @@ Ref. 15: [Central Government's Decision about Trans](https://twitter.com/Homura_
 
 Ref. 16: [Wuhan Jiulong Renfu Medicine Co., Ltd.](./policy/p1.jpg)
 
-Ref. 17: [刘以翎 | 赌上生命的踽踽万里 并非孤立无援](https://yibaochina.com/?p=249487)
+Ref. 17: [刘以翎: 赌上生命的踽踽万里 并非孤立无援](https://yibaochina.com/?p=249487)
 
 ## How you can help
 
