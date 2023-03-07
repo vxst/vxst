@@ -31,14 +31,9 @@ They believe I seriously broke the "QiYun"(a kind of luck) of the clan and
 the only solution is my death. They agreed that I should be killed even at the
 cost of the lives of clan members.
 
-I currently live in hiding, and I believe I'm safe in the short term since
-there is a limitation on international travel placed by the Chinese government
-due to covid-19, and I believe there is no active clan member knows my
-address.
-
-I will continue to live in hiding until I can reach a safe country that can
-protect me from the murder (not only the justice after the murder, they are
-determined that they don't care about that).
+I currently live under some protection. I am unsure if it will continue to
+keep me safe, but as long as it does, I believe I am secure. This unique
+circumstance has caused a delay in the signing process.
 
 This canary will be re-signed every month between the 1st and 5th after August
 2022 with the GPG key with the following primary key fingerprint:
@@ -51,14 +46,14 @@ https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc
 This canary will only end due to my death, or I have got to a safe place. I
 will sign a statement using the same key if the latter happens.
 
-Time of this canary's signuture: 2023-02-05
-Next time of signuture: 2023-03-01 to 2023-03-05, inclusive.
+Time of this canary's signuture: 2023-03-07
+Next time of signuture: 2023-04-01 to 2023-04-05, inclusive.
 -----BEGIN PGP SIGNATURE-----
 
-iJsEARMJACMWIQR9JGsrIHSCVg0oIFYy2Kdb8s5m/QUCY9/OxwWDACeNAAAKCRAy
-2Kdb8s5m/UHdAX438fDVmoszQufSD0a6dGOCQcB+b027lwsn3X16D23hL4XCGW5I
-/Kr6BTA5GtFG/bABewXEmsjywmBJME9o/Rgda+dBMDHfg98UlX5OQXGHaYlE563e
-Jmtk0yKThFQEhHTVhw==
-=o95w
+iJsEARMJACMWIQR9JGsrIHSCVg0oIFYy2Kdb8s5m/QUCZAbq4QWDACY7gAAKCRAy
+2Kdb8s5m/cU7AX94aya7ufE6qYPJtWlxTqytlzFIp3c0jJBjpjLl6ZhwZcjPeIkr
+cFS8rejw5mexzEEBgOxO3FhcfVG8ePrDx6eUHGCOzsl2PnYB9jqR3FVaHgxi3Lr4
+S1+j6hsH6iRHsOT8xQ==
+=6uRy
 -----END PGP SIGNATURE-----
 ```

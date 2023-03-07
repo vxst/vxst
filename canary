@@ -11,14 +11,9 @@ They believe I seriously broke the "QiYun"(a kind of luck) of the clan and
 the only solution is my death. They agreed that I should be killed even at the
 cost of the lives of clan members.
 
-I currently live in hiding, and I believe I'm safe in the short term since
-there is a limitation on international travel placed by the Chinese government
-due to covid-19, and I believe there is no active clan member knows my
-address.
-
-I will continue to live in hiding until I can reach a safe country that can
-protect me from the murder (not only the justice after the murder, they are
-determined that they don't care about that).
+I currently live under some protection. I am unsure if it will continue to
+keep me safe, but as long as it does, I believe I am secure. This unique
+circumstance has caused a delay in the signing process.
 
 This canary will be re-signed every month between the 1st and 5th after August
 2022 with the GPG key with the following primary key fingerprint:
@@ -31,5 +26,5 @@ https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc
 This canary will only end due to my death, or I have got to a safe place. I
 will sign a statement using the same key if the latter happens.
 
-Time of this canary's signuture: 2023-02-05
-Next time of signuture: 2023-03-01 to 2023-03-05, inclusive.
+Time of this canary's signuture: 2023-03-07
+Next time of signuture: 2023-04-01 to 2023-04-05, inclusive.
