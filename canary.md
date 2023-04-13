@@ -46,14 +46,14 @@ https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc
 This canary will only end due to my death, or I have got to a safe place. I
 will sign a statement using the same key if the latter happens.
 
-Time of this canary's signuture: 2023-03-07
-Next time of signuture: 2023-04-01 to 2023-04-05, inclusive.
+Time of this canary's signuture: 2023-04-13
+Next time of signuture: 2023-05-01 to 2023-05-10, inclusive.
 -----BEGIN PGP SIGNATURE-----
 
-iJsEARMJACMWIQR9JGsrIHSCVg0oIFYy2Kdb8s5m/QUCZAbq4QWDACY7gAAKCRAy
-2Kdb8s5m/cU7AX94aya7ufE6qYPJtWlxTqytlzFIp3c0jJBjpjLl6ZhwZcjPeIkr
-cFS8rejw5mexzEEBgOxO3FhcfVG8ePrDx6eUHGCOzsl2PnYB9jqR3FVaHgxi3Lr4
-S1+j6hsH6iRHsOT8xQ==
-=6uRy
+iJsEARMJACMWIQR9JGsrIHSCVg0oIFYy2Kdb8s5m/QUCZDe7WgWDACTqAAAKCRAy
+2Kdb8s5m/ezYAYClWWn5r6y41ZWNlBRE2NuupSxzx4oOyY100T3+NXhZhbeAVy5b
+i7GYtu/ZVkiTsioBgI5lr6SamfeLT18iTqeMzI7ix2deB7iRLl0M9KHUHR2tkDVz
+n0VOwhDwxnVD0scXYQ==
+=f2Gu
 -----END PGP SIGNATURE-----
 ```
