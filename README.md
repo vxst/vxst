@@ -18,7 +18,7 @@ Supercomputing Cluster Manager in ZJU.
 
 * OIWiki Sites([oiwiki.com](https://oiwiki.com) /
   [oiwiki.org](https://oiwiki.org) / [oiwiki.net](https://oiwiki.net))
-  , continuous deployment to my personal kubernetes and S3 and cloudflare
+  , continuous deployment to my personal kubernetes, S3 and cloudflare
   daily.
 * [MtF Hub](https://hub.mtf.party): A Mastodon instance for male-to-female transgender
 * [MtF Party!](https://mtf.party): A site contains guides on how to live/hide and
@@ -34,8 +34,6 @@ get medical support as a MtF transgender
 >
 > If you want high E2E security, use GPG, It's pretty hard to get a key from
 > pin-verified, self-destructible and tamper-detactable hardware.
->
-> If you want to use S/MIME, you can use the key specified above.
 >
 > You can assume that even in extreme environment, anything signed using
 > F085D7C448667DEF is signed by me personally. The private key only stored
