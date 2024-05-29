@@ -11,5 +11,5 @@
 
 #### Contact
 
-* Email：me@vx.st / vxst@riseup.net / shantingst@gmail.com, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
+* Email：me@vx.st / shantingst@gmail.com, Telegram：[@thevxst](https://t.me/thevxst), Mastodon：[@vxst@hub.mtf.party](https://hub.mtf.party/@vxst)
 * GPG: [F085D7C448667DEF](https://raw.githubusercontent.com/vxst/vxst/main/48667DEF.asc) (Fingerprint: F2A1 B804 3905 5888 0DFE  BBA0 F085 D7C4 4866 7DEF)
